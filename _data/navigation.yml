@@ -1,7 +1,7 @@
 # main links links
 main:
   - title: "Sample Navigation Link"
-    url: /_pages/404.md
+    url: https://johtobi.github.io/_pages/404.md
 
   - title: "Sample Navigation Link 2"
     url: /
