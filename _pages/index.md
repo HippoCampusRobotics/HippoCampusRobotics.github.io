@@ -7,4 +7,4 @@ sitemap: false
 header:
   image: logoheader.jpg
 ---
-{: Test.text-center}
+{:Test.text-center}
