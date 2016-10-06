@@ -7,5 +7,5 @@ sitemap: false
 header:
   image: logoheader.jpg
 ---
-test{: .text-center}
-
+Center aligned text.
+{: .text-center}
