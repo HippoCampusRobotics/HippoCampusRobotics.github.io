@@ -1,6 +1,6 @@
 ---
 title: "About"
-permalink: /pages/about/
+permalink: /about/
 layout: splash
 excerpt: "About HippoC"
 sitemap: false
