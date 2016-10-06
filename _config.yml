@@ -230,3 +230,11 @@ compress_html:
 
 include: ["_pages"]
 
+#_pages
+scope:
+  path: ""
+  type: pages
+ values:
+  layout: splash
+  author:profile_true
+
