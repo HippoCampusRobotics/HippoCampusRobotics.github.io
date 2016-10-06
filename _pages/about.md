@@ -12,6 +12,118 @@
 <meta property="og:site_name" content="HippoCampus">
 <meta property="og:title" content="About">
 
+<link rel="canonical" href="https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/">
+  <meta property="og:url" content="https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/">
+
+
+
+  <meta property="og:description" content="How to quickly install and setup Minimal Mistakes for use with GitHub Pages.">
+
+
+
+  <meta name="twitter:site" content="@mmistakes">
+  <meta name="twitter:title" content="Quick-Start Guide">
+  <meta name="twitter:description" content="How to quickly install and setup Minimal Mistakes for use with GitHub Pages.">
+  <meta name="twitter:url" content="https://mmistakes.github.io/docs/quick-start-guide/">
+
+  
+    <meta name="twitter:card" content="summary">
+    
+      <meta name="twitter:image" content="https://mmistakes.github.io/minimal-mistakes/images/site-logo.png">
+    
+  
+
+  
+
+
+
+  
+
+  
+
+
+
+  <meta property="og:image" content="https://mmistakes.github.io/minimal-mistakes/images/site-logo.png">
+
+
+
+
+
+
+
+
+  <script type="application/ld+json">
+    {
+      "@context": "http://schema.org",
+      "@type": "Organization",
+      "url": "https://mmistakes.github.io/minimal-mistakes",
+      "logo": "https://mmistakes.github.io/minimal-mistakes/images/site-logo.png"
+    }
+  </script>
+
+
+
+  <script type="application/ld+json">
+    {
+      "@context" : "http://schema.org",
+      "@type" : "Person",
+      "name" : "Michael Rose",
+      "url" : "https://mmistakes.github.io/minimal-mistakes",
+      "sameAs" : ["https://twitter.com/mmistakes","https://facebook.com/michaelrose"]
+    }
+  </script>
+
+
+
+  <meta name="google-site-verification" content="UQj93ERU9zgECodaaXgVpkjrFn9UrDMEzVamacSoQ8Y" />
+
+
+
+
+<!-- end SEO -->
+
+
+<link href="https://mmistakes.github.io/minimal-mistakes/feed.xml" type="application/atom+xml" rel="alternate" title="Minimal Mistakes Feed">
+
+<!-- http://t.co/dKP3o1e -->
+<meta name="HandheldFriendly" content="True">
+<meta name="MobileOptimized" content="320">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<script>
+  document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + ' js ';
+</script>
+
+<!-- For all browsers -->
+<link rel="stylesheet" href="https://mmistakes.github.io/minimal-mistakes/assets/css/main.css">
+
+<meta http-equiv="cleartype" content="on">
+    
+
+<!-- start custom head snippets -->
+
+<link rel="apple-touch-icon" sizes="57x57" href="https://mmistakes.github.io/minimal-mistakes/images/apple-touch-icon-57x57.png?v=M44lzPylqQ">
+<link rel="apple-touch-icon" sizes="60x60" href="https://mmistakes.github.io/minimal-mistakes/images/apple-touch-icon-60x60.png?v=M44lzPylqQ">
+<link rel="apple-touch-icon" sizes="72x72" href="https://mmistakes.github.io/minimal-mistakes/images/apple-touch-icon-72x72.png?v=M44lzPylqQ">
+<link rel="apple-touch-icon" sizes="76x76" href="https://mmistakes.github.io/minimal-mistakes/images/apple-touch-icon-76x76.png?v=M44lzPylqQ">
+<link rel="apple-touch-icon" sizes="114x114" href="https://mmistakes.github.io/minimal-mistakes/images/apple-touch-icon-114x114.png?v=M44lzPylqQ">
+<link rel="apple-touch-icon" sizes="120x120" href="https://mmistakes.github.io/minimal-mistakes/images/apple-touch-icon-120x120.png?v=M44lzPylqQ">
+<link rel="apple-touch-icon" sizes="144x144" href="https://mmistakes.github.io/minimal-mistakes/images/apple-touch-icon-144x144.png?v=M44lzPylqQ">
+<link rel="apple-touch-icon" sizes="152x152" href="https://mmistakes.github.io/minimal-mistakes/images/apple-touch-icon-152x152.png?v=M44lzPylqQ">
+<link rel="apple-touch-icon" sizes="180x180" href="https://mmistakes.github.io/minimal-mistakes/images/apple-touch-icon-180x180.png?v=M44lzPylqQ">
+<link rel="icon" type="image/png" href="https://mmistakes.github.io/minimal-mistakes/images/favicon-32x32.png?v=M44lzPylqQ" sizes="32x32">
+<link rel="icon" type="image/png" href="https://mmistakes.github.io/minimal-mistakes/images/android-chrome-192x192.png?v=M44lzPylqQ" sizes="192x192">
+<link rel="icon" type="image/png" href="https://mmistakes.github.io/minimal-mistakes/images/favicon-96x96.png?v=M44lzPylqQ" sizes="96x96">
+<link rel="icon" type="image/png" href="https://mmistakes.github.io/minimal-mistakes/images/favicon-16x16.png?v=M44lzPylqQ" sizes="16x16">
+<link rel="manifest" href="https://mmistakes.github.io/minimal-mistakes/images/manifest.json?v=M44lzPylqQ">
+<link rel="mask-icon" href="https://mmistakes.github.io/minimal-mistakes/images/safari-pinned-tab.svg?v=M44lzPylqQ" color="#000000">
+<link rel="shortcut icon" href="/images/favicon.ico?v=M44lzPylqQ">
+<meta name="msapplication-TileColor" content="#000000">
+<meta name="msapplication-TileImage" content="https://mmistakes.github.io/minimal-mistakes/images/mstile-144x144.png?v=M44lzPylqQ">
+<meta name="msapplication-config" content="https://mmistakes.github.io/minimal-mistakes/images/browserconfig.xml?v=M44lzPylqQ">
+<meta name="theme-color" content="#ffffff">
+
+<!-- end custom head snippets -->
 
   </head>
 
