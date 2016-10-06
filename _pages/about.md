@@ -1,9 +1,12 @@
 ---
-title: "About"
-layout: splash
-excerpt: "About HippoCampus"
-sitemap: false
-permalink: /about/
+defaults:
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+     values:
+      layout: splash
+      author_profile: true
 ---
 
 Bla bla bla blub
