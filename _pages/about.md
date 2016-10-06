@@ -3,7 +3,6 @@ title: "About"
 layout: splash
 excerpt: "About HippoC"
 sitemap: false
-permalink: /categories/about/
 ---
 
 <h1>Motivation</h1>
