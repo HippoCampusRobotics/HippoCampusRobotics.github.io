@@ -19,6 +19,7 @@ Hackbarth, Axel and Hedrick, J. Karl and Kreuzer, Edwin and Solowjow, Eugen (201
 Hackbarth, Axel and Kreuzer, Edwin and Schröder, Thorben (2014). CFD in the Loop: Ensemble Kalman Filtering With Underwater Mobile Sensor Networks. <i>Ocean, Offshore and Arctic Engineering, ASME 2014 33rd International Conference on ASME</i>: V002T08A063.
 {: .notice--info}
 
+
 <h2>2012</h2>
 
 <ul>
