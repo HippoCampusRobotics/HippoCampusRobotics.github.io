@@ -4,6 +4,8 @@ permalink: /pages/about/
 layout: splash
 excerpt: "About HippoC"
 sitemap: false
+header:
+  image: headerlogo.jpg
 ---
 
 <h1>Motivation</h1>
