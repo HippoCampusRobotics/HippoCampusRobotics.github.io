@@ -14,7 +14,8 @@ Hackbarth, Axel and Hedrick, J. Karl and Kreuzer, Edwin and Solowjow, Eugen (201
 {: .notice--info}
 
 Hackbarth, Axel and Hedrick, J. Karl and Kreuzer, Edwin and Solowjow, Eugen (2014). A Nonlinear Estimator for Mobile Source Localization Applications. <i>8th European Nonlinear Dynamics Conference</i> Wien.
-{: notice--warning}
+{: .notice--warning}
 
-Right aligned text.
+Hackbarth, Axel and Kreuzer, Edwin and Schröder, Thorben (2014). CFD in the Loop: Ensemble Kalman Filtering With Underwater Mobile Sensor Networks. Ocean, Offshore and Arctic Engineering, ASME 2014 33rd International Conference on ASME: V002T08A063.
 {: .notice--info}
+
