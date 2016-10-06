@@ -8,3 +8,4 @@ header:
   image: logoheader.jpg
 ---
 {:Test.text-center}
+test.text-center 
