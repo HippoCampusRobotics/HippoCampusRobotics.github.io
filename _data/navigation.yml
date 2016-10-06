@@ -3,5 +3,5 @@ main:
   - title: "Sample Navigation Link"
     url: https://johtobi.github.io/_pages/404.md
 
-  - title: "Sample Navigation Link 2"
-    url: /
+  - title: "About"
+    url: https://johtobi.github.io/_pages/about.md
