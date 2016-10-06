@@ -6,5 +6,5 @@ sitemap: false
 permalink: /404.html
 ---
 
-test
+Bla bla
 
