@@ -6,7 +6,7 @@ sitemap: false
 permalink: /about.html
 ---
 
-The world's oceans have been a cruc
+The world's oceans have been a crucial part for 
 
 
 
