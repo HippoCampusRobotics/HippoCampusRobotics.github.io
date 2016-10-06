@@ -3,7 +3,7 @@ title: "About HippoCampus"
 layout: splash
 excerpt: "About HippoC"
 sitemap: false
-permalink: /404.html
+permalink: /about.html
 header:
   image: logoheader.jpg
 ---
