@@ -24,5 +24,5 @@ Hackbarth, Axel and Kreuzer, Edwin and Schröder, Thorben (2014). CFD in the Loo
 
 <ul>
 <li>Hackbarth, Axel and Gray, Andrew and Kreuzer, Edwin (2012). Multi-Agent Motion Control of Autonomous Vehicles in 3D Flow Fields. <i>PAMM</i> WILEY-VCH: Darmstadt 733--734.</li>
-<li>Hackbarth, Axel and Kreuzer, Edwin and Gray, Andrew and Hedrick, J. Karl (2012). Collaborative Control of Multiple AUVs for Improving the Estimation of Flow Field Dependent Variables. <i>IEEE/OES Autonomous Underwater Vehicles</i> Southampton</li>
+<li>Hackbarth, Axel and Kreuzer, Edwin and Gray, Andrew and Hedrick, J. Karl (2012). Collaborative Control of Multiple AUVs for Improving the Estimation of Flow Field Dependent Variables. <i>IEEE/OES Autonomous Underwater Vehicles</i> Southampton.</li>
 </ul>
