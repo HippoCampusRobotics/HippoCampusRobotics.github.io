@@ -16,4 +16,4 @@ header:
 </ul>
 
 Right aligned text.
-{: .notice}
+{: .notice--info}
