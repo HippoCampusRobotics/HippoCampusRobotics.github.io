@@ -1,11 +1,12 @@
 ---
-#layout: splash
+layout: splash
 permalink: /about/
 title: About
 tagline Dan Roncadin's Site
 tags: [about]
 header:
   image: logoheader.jpg
+share: false
 ---
 
 <h1>Motivation</h1>
