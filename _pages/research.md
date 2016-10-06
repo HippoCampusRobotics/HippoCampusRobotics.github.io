@@ -13,7 +13,7 @@ header:
 Hackbarth, Axel and Hedrick, J. Karl and Kreuzer, Edwin and Solowjow, Eugen (2014). A Bayesian Approach to Model-Based Localization of a Diffusive Source. <i>RSS Workshop on Autonomous Control, Adaptation, and Learning for Underwater Vehicles</i> RSS Conference: Berkeley, California.<a href="http://drexelsaslab.appspot.com/workshops/rss2014/index.html" target="_blank">www</a>
 {: .notice--info}
 
-Hackbarth, Axel and Hedrick, J. Karl and Kreuzer, Edwin and Solowjow, Eugen (2014). A Nonlinear Estimator for Mobile Source Localization Applications. <i>8th European Nonlinear Dynamics Conference</i> Wien.<a href="http://www.google.de" class="btn ">www</a>
+Hackbarth, Axel and Hedrick, J. Karl and Kreuzer, Edwin and Solowjow, Eugen (2014). A Nonlinear Estimator for Mobile Source Localization Applications. <i>8th European Nonlinear Dynamics Conference</i> Wien.<a href="http://www.google.de" class="btn " traget="_blank">www</a>
 {: .notice--warning}
 
 Hackbarth, Axel and Kreuzer, Edwin and Schröder, Thorben (2014). CFD in the Loop: Ensemble Kalman Filtering With Underwater Mobile Sensor Networks. <i>Ocean, Offshore and Arctic Engineering, ASME 2014 33rd International Conference on ASME</i>: V002T08A063.
