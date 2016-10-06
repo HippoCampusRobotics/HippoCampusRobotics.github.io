@@ -1,7 +1,10 @@
 # main links links
 main:
   - title: "About"
-    url: https://johtobi.github.io/pages/about.md
+    url: https://johtobi.github.io/_pages/about.md
+    
+  - title: "Test"
+    url:
 
 
   
