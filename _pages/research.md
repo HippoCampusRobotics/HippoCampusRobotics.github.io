@@ -1,6 +1,6 @@
 ---
 title: "Research"
-permalink: /pages/research.md
+permalink: /pages/research/
 layout: splash
 excerpt: "Research HippoC"
 sitemap: false
