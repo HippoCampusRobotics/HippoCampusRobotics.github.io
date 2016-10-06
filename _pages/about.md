@@ -1,7 +1,7 @@
 ---
 title: "About"
 layout: splash
-excerpt: "Page not found. Your pixels are in another canvas."
+excerpt: "About HippoCampus"
 sitemap: false
 permalink: /404.html
 ---
