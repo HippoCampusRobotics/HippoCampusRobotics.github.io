@@ -7,5 +7,5 @@ sitemap: false
 header:
   image: logoheader.jpg
 ---
-Center aligned text.
+<h1>HippoCampus - Autonomous Underwater Exploration</h1>
 {: .text-center}
