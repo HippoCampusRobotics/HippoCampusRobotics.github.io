@@ -1,4 +1,9 @@
 ---
+title: "Page Not Found"
 layout: splash
-author_profile: false
+excerpt: "Page not found. Your pixels are in another canvas."
+sitemap: false
+permalink: /404.html
 ---
+
+The world's ocean
