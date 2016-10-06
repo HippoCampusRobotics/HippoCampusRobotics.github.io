@@ -5,7 +5,7 @@ layout: splash
 excerpt: "About HippoC"
 sitemap: false
 header:
-  image: headerlogo.jpg
+  image: logoheader.jpg
 ---
 
 <h1>Motivation</h1>
