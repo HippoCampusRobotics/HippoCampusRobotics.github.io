@@ -1,5 +1,5 @@
 ---
-title: "Page Found"
+title: "Page Not Found"
 layout: splash
 excerpt: "Page not found. Your pixels are in another canvas."
 sitemap: false
