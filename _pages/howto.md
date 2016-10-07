@@ -42,7 +42,7 @@ header:
 .contentArea {
     float: left;
      width: 75%;
-    background-color: silver;
+    background-color: white;
     margin: 0;
     padding: 0;
 }
@@ -73,7 +73,7 @@ hr {
   background-color:#000000;
   color:#000000;
   border:#000000;
-  height:1px;
+  height:0.5px;
 }
 
 </style>
