@@ -9,6 +9,7 @@ header:
 ---
 <style>
 	#container {
+    width: 80%;
 		background:#eee;
 	}
 	#links{
