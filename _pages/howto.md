@@ -10,10 +10,10 @@ header:
 <style>
 	#container {
 		background:#eee;
-    align-items: center;
 	}
 	#links{
 		margin-right: 62%;	
+    vertical-align: middle;
 	}
 	#rechts{
 		float: right;
