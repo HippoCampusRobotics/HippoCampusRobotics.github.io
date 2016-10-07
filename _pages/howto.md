@@ -18,7 +18,7 @@ header:
     margin: 0 auto;
   }
   .header {
-    height: 15px;
+    height: 5px;
     background-color: white;
 }
 .contentwrap {
@@ -48,7 +48,7 @@ header:
 }
 .footer {
     background-color: white;
-    height: 2px;
+    height: 5px;
     clear: both;
 }
  .video-container {
@@ -73,7 +73,7 @@ hr {
   background-color:#000000;
   color:#000000;
   border:#000000;
-  height:0.5px;
+  height:1px;
 }
 
 </style>
