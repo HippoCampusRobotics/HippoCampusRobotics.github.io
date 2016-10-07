@@ -11,3 +11,5 @@ header:
 {: .text-center}
 
 Hier steht ein Testtext
+
+{% include feature_row %}
