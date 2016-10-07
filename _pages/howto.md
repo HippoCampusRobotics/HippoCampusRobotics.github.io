@@ -73,7 +73,7 @@ hr {
   background-color:#000000;
   color:#000000;
   border:#000000;
-  height:2px;
+  height:1px;
 }
 
 </style>
