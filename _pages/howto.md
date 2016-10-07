@@ -92,7 +92,7 @@ hr {
 <div class="wrapper">
   <header class="header"><hr></header>
     <section class="contentwrap">
-      <nav class="navArea">Menu<br>Test</nav>
+      <nav class="navArea">HippoCampus Micro AUV Video by</nav>
       <article class="contentArea">
       <div class="video-container">
       <iframe width="560" height="315" src="https://www.youtube.com/embed/PrH_exw1WXw" frameborder="0" allowfullscreen></iframe>
