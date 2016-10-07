@@ -10,6 +10,9 @@ header:
 <style>
 	#container {
 		background:#eee;
+    display: table-cell;
+    vertical-align: middle;
+    width: 100%;
 	}
 	#links{
 		margin-right: 62%;	
