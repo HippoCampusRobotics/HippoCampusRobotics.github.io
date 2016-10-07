@@ -12,7 +12,7 @@ header:
 		background:#eee;
 	}
 	#links{
-		margin-right: 50px;
+		margin-right: 300px;
 		background:#FF0000;
 		
 	}
