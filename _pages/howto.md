@@ -12,7 +12,7 @@ header:
 		background:#eee;
 	}
 	#links{
-		margin-right: 20%;
+		margin-right: 60%;
 		background:#FF0000;
 		
 	}
@@ -24,7 +24,7 @@ header:
 </style>
 
 
-<h1>How To</h1>
+<h1>How To do</h1>
 
 <div id="container">
 	<div id="rechts">
