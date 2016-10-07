@@ -78,17 +78,23 @@ hr {
 
 </style>
 
-<h1>How To do</h1>
+We invite researchers to collaborate using the HippoC platform. Check out the project videos below.
 
 <div class="wrapper">
   <header class="header"><hr></header>
     <section class="contentwrap">
-      <nav class="navArea">Menu</nav>
-      <article class="contentArea">Inhalt</article>
+      <nav class="navArea">HippoCampus Micro AUV Video by</nav>
+      <article class="contentArea">
+      <div class="video-container">
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/PrH_exw1WXw" frameborder="0" allowfullscreen></iframe>
+    </div>
+      </article>
     </section>
     <div class="footer"><hr></div>
 </div>
+
 <p line-height="10em"></p>
+
 <div class="wrapper">
   <header class="header"><hr></header>
     <section class="contentwrap">
