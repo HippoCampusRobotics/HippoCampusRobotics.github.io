@@ -14,6 +14,7 @@ header:
 	padding-top:30px;
 	height:0;
 	overflow:hidden;
+  float:right;
   }
 </style>
 <style>
