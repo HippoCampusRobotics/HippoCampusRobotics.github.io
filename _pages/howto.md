@@ -10,10 +10,10 @@ header:
 <style>
 	#container {
 		background:#eee;
+    align-items: center;
 	}
 	#links{
 		margin-right: 62%;	
-    padding-top: 10%;
 	}
 	#rechts{
 		float: right;
@@ -42,7 +42,7 @@ header:
 </style>
 
 
-<h1>How To</h1>
+<h1>How To do</h1>
 
 <div id="container">
 	<div id="rechts">
