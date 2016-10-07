@@ -20,7 +20,7 @@ header:
 <style>
 .video-container iframe, div.video-container object, div.video-container embed {
 	position:absolute;
-  clear:left;
+  float:right;
   top:0;
 	right:0;
 	width:50%;
