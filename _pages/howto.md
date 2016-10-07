@@ -12,9 +12,7 @@ header:
 		background:#eee;
 	}
 	#links{
-		margin-right: 75%;
-		background:#FF0000;
-		
+		margin-right: 72%;	
 	}
 	#rechts{
 		float: right;
@@ -24,7 +22,7 @@ header:
 </style>
 
 
-<h1>How To</h1>
+<h1>How To do</h1>
 
 <div id="container">
 	<div id="rechts">
