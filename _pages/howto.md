@@ -11,7 +11,6 @@ header:
 	#container {
 		background:#eee;
     display: table;
-    overflow: hidden;
 	}
 	#links{
 		margin-right: 62%;	
@@ -45,7 +44,7 @@ header:
 </style>
 
 
-<h1>How To d</h1>
+<h1>How To</h1>
 
 <div id="container">
 	<div id="rechts">
