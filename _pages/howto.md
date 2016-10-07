@@ -25,14 +25,8 @@ header:
 <h1>How To do</h1>
 
 <div id="container">
-	<div id="rechts">
-		<b>Navigation</b><br/>
-		text text text text text text text text text text text text text text text text text			
-	</div>
-	<div id="links">
-		<b>2-spalten-layout jea</b><br/>
-		und noch ein bischen text : text text text text text text text text text text text text text text text text text
-		text text text text text text text text text text text text text text text text text text text text text
+	<div id="rechts">Hier kommt ein Video</div>
+	<div id="links">HippoCampus Micro AUV gyro and attitude controlled
 		<div style="clear:both"></div>
 	</div>
 </div>
