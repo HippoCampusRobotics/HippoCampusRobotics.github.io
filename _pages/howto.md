@@ -34,14 +34,14 @@ header:
   float:right;
   top:0;
 	right:0;
-	width:50%;
-	height:50%;
+	width:100%;
+	height:100%;
 } 
   
 </style>
 
 
-<h1>How To</h1>
+<h1>How To do</h1>
 
 <div id="container">
 	<div id="rechts">
