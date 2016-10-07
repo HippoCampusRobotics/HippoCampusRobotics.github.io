@@ -7,7 +7,22 @@ sitemap: false
 header:
   image: logoheader.jpg
 ---
-
+<style>
+video-container {
+	position:relative;
+	padding-bottom:56.25%;
+	padding-top:30px;
+	height:0;
+	overflow:hidden;
+  }
+video-container iframe, .video-container object, .video-container embed {
+	position:absolute;
+	top:0;
+	left:0;
+	width:100%;
+	height:100%;
+} 
+</style>
 
 <h1>Video</h1>
 <div class="video-container">
