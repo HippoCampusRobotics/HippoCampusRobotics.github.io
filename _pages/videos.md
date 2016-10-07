@@ -8,7 +8,20 @@ header:
   image: logoheader.jpg
 ---
 <style>
-.video-container {
+	#container {
+		background:#eee;
+	}
+	#links{
+		margin-right: 62%;	
+    position: absolute;
+    /*top: 60%;*/
+	}
+	#rechts{
+		float: right;
+		width: 60%;
+	}
+  
+  .video-container {
   clear:left;
   position:relative;
 	padding-bottom:56.25%;
@@ -23,18 +36,24 @@ header:
   float:right;
   top:0;
 	right:0;
-	width:50%;
-	height:50%;
+	width:96%;
+	height:100%;
 } 
+  
 </style>
 
-<h1>Videos Test Test</h1>
 
-Das ist ein Video
-<div class="video-container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PrH_exw1WXw" frameborder="0" allowfullscreen></iframe>
+<h1>Videos</h1>
+
+<div id="container">
+	<div id="rechts">
+    <div class="video-container">
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/PrH_exw1WXw" frameborder="0" allowfullscreen></iframe>
+    </div>
+  </div>
+  <div id="links">HippoCampus Micro AUV gyro and attitude controlled<br>
+    <br>Video by 
+		<div style="clear:both"></div>
+	</div>
 </div>
 
-<div class="video-container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1y6KvrMqoo0" frameborder="0" allowfullscreen></iframe>
-</div>
