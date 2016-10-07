@@ -79,7 +79,7 @@ hr {
 </style>
 
 <p align="center">We invite researchers to collaborate using the HippoC platform. Check out the project videos below.</p>
-<p line-height="3em"></p>
+<p line-height="3em"> </p>
 <div class="wrapper">
   <header class="header"><hr></header>
     <section class="contentwrap">
@@ -93,7 +93,7 @@ hr {
     <div class="footer"><hr></div>
 </div>
 
-<p line-height="30px"></p>
+<p line-height="30px"> </p>
 
 <div class="wrapper">
   <header class="header"><hr></header>
