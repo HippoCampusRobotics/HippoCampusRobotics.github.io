@@ -14,7 +14,7 @@ header:
 	#links{
 		margin-right: 62%;	
     position: absolute;
-    top: 50%;
+    top: 70%;
 	}
 	#rechts{
 		float: right;
