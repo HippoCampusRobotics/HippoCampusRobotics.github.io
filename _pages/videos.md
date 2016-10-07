@@ -7,13 +7,12 @@ sitemap: false
 header:
   image: logoheader.jpg
 
-.video-container {
-	position:relative;
-	padding-bottom:56.25%;
-	padding-top:30px;
-	height:0;
-	overflow:hidden;
-}
+video-container:
+	position: relative
+	padding-bottom: 56.25%
+	padding-top: 30px
+	height: 0
+	overflow: hidden
 
 .video-container iframe, .video-container object, .video-container embed {
 	position:absolute;
