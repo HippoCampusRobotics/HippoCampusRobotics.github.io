@@ -53,7 +53,7 @@ header:
 }
 </style>
 
-<h1>How To do</h1>
+<h1>How To</h1>
 
 <div class="wrapper">
   <header class="header">Titel</header>
