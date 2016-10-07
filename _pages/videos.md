@@ -12,7 +12,7 @@ header:
   clear:left;
   position:relative;
 	padding-bottom:56.25%;
-	padding-top:30px;
+	padding-top:10px;
 	height:0;
   overflow:hidden;
   }
