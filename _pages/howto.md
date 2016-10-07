@@ -41,7 +41,7 @@ header:
 </style>
 
 
-<h1>How To</h1>
+<h1>How To do</h1>
 
 <div id="container">
 	<div id="rechts">
@@ -49,7 +49,7 @@ header:
       <iframe width="560" height="315" src="https://www.youtube.com/embed/PrH_exw1WXw" frameborder="0" allowfullscreen></iframe>
     </div>
   </div>
-  <div id="links"><p text-align:center>HippoCampus Micro AUV gyro and attitude controlled</p>
+  <div id="links" text-align="center">HippoCampus Micro AUV gyro and attitude controlled
 		<div style="clear:both"></div>
 	</div>
 </div>
