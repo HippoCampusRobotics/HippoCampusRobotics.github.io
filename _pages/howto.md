@@ -41,7 +41,7 @@ header:
 }
 .contentArea {
     float: left;
-     width: 70%;
+     width: 69%;
     background-color: silver;
     margin: 0;
     padding: 0;
@@ -53,7 +53,7 @@ header:
 }
 </style>
 
-<h1>How To do</h1>
+<h1>How To</h1>
 
 <div class="wrapper">
   <header class="header">Titel</header>
