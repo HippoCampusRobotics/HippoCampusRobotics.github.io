@@ -51,6 +51,24 @@ header:
     height: 50px;
     clear: both;
 }
+ .video-container {
+  clear:left;
+  position:relative;
+	padding-bottom:56.25%;
+	padding-top:1px;
+	height:0;
+  overflow:hidden;
+  }
+  
+  .video-container iframe, div.video-container object, div.video-container embed {
+	position:absolute;
+  float:right;
+  top:0;
+	right:0;
+	width:96%;
+	height:100%;
+} 
+
 </style>
 
 <h1>How To</h1>
@@ -68,7 +86,12 @@ header:
   <header class="header">Titel</header>
     <section class="contentwrap">
       <nav class="navArea">Menu</nav>
-      <article class="contentArea">Inhalt</article>
+      <article class="contentArea">
+      <div class="video-container">
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/PrH_exw1WXw" frameborder="0" allowfullscreen></iframe>
+    </div>
+      </article>
     </section>
     <div class="footer">Fusszeile</div>
 </div>
+
