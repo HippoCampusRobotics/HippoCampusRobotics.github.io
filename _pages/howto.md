@@ -69,6 +69,13 @@ header:
 	height:100%;
 } 
 
+hr {
+  background-color:#FF0000;
+  color:#FF0000;
+  border:#FF0000;
+  height:1px;
+}
+
 </style>
 
 <h1>How To do</h1>
@@ -83,7 +90,7 @@ header:
 </div>
 <p line-height="10em"></p>
 <div class="wrapper">
-  <header class="header">Titel</header>
+  <header class="header"><hr></header>
     <section class="contentwrap">
       <nav class="navArea">Menu<br>Test</nav>
       <article class="contentArea">
