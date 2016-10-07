@@ -19,7 +19,7 @@ header:
   }
   .header {
     height: 120px;
-    background-color: red;
+    background-color: white;
 }
 .contentwrap {
     background-color: blue
