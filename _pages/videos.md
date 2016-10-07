@@ -57,3 +57,14 @@ header:
 	</div>
 </div>
 
+<div id="container">
+	<div id="rechts">
+    <div class="video-container">
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/PrH_exw1WXw" frameborder="0" allowfullscreen></iframe>
+    </div>
+  </div>
+  <div id="links">HippoCampus Micro AUV <br>
+    <br>Video by 
+		<div style="clear:both"></div>
+	</div>
+</div>
