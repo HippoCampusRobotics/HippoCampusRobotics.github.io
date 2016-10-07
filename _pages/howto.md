@@ -9,7 +9,7 @@ header:
 ---
 <style>
 	#container {
-		background:#00FF00;
+		background:#eee;
 	}
 	#links{
 		margin-right: 150px;
