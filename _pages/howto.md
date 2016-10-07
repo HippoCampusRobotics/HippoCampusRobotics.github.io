@@ -34,7 +34,7 @@ header:
   float:right;
   top:0;
 	right:0;
-	width:100%;
+	width:90%;
 	height:100%;
 } 
   
@@ -45,7 +45,6 @@ header:
 
 <div id="container">
 	<div id="rechts">
-    Hier kommt ein Video
     <div class="video-container">
       <iframe width="560" height="315" src="https://www.youtube.com/embed/PrH_exw1WXw" frameborder="0" allowfullscreen></iframe>
     </div>
