@@ -56,10 +56,19 @@ header:
 <h1>How To</h1>
 
 <div class="wrapper">
-            <header class="header">Titel</header>
-            <section class="contentwrap">
-                <nav class="navArea">Menu</nav>
-                <article class="contentArea">Inhalt</article>
-            </section>
-            <div class="footer">Fusszeile</div>
-        </div>
+  <header class="header">Titel</header>
+    <section class="contentwrap">
+      <nav class="navArea">Menu</nav>
+      <article class="contentArea">Inhalt</article>
+    </section>
+    <div class="footer">Fusszeile</div>
+</div>
+
+<div class="wrapper">
+  <header class="header">Titel</header>
+    <section class="contentwrap">
+      <nav class="navArea">Menu</nav>
+      <article class="contentArea">Inhalt</article>
+    </section>
+    <div class="footer">Fusszeile</div>
+</div>
