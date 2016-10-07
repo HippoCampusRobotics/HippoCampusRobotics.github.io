@@ -10,8 +10,10 @@ header:
 <style>
 .box{
   float: left;
+  width: 33.3333%;
   padding: 20px;
   background: #eee;
+  box-sizing: border-box;
 }
 </style>
 
