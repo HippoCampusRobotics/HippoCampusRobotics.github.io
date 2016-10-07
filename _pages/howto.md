@@ -41,7 +41,7 @@ header:
 }
 .contentArea {
     float: left;
-     width: 69%;
+     width: 68%;
     background-color: silver;
     margin: 0;
     padding: 0;
