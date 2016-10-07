@@ -9,6 +9,7 @@ header:
 ---
 <style>
 .box{
+  float: left;
   padding: 20px;
   background: #eee;
 }
