@@ -18,7 +18,7 @@ header:
 	}
 	#rechts{
 		float: right;
-		width: 150px;
+		width: 100px;
 	}
 
 </style>
