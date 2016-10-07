@@ -24,7 +24,7 @@ header:
 </style>
 
 
-<h1>How To do</h1>
+<h1>How To</h1>
 
 <div id="container">
 	<div id="rechts">
