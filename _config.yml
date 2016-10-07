@@ -175,6 +175,10 @@ paginate_path: /page:num/
 timezone: # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 permalink: /about/
 permalink: /research/
+permalink: /people/
+permalink: /videos/
+permalink: /howto/
+permalink: /contact/
 
 # Plugins
 gems:
