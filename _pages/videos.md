@@ -8,20 +8,49 @@ header:
   image: logoheader.jpg
 ---
 <style>
-	#container {
-		background:#eee;
-	}
-	#links{
-		margin-right: 62%;	
-    position: absolute;
-    /*top: 60%;*/
-	}
-	#rechts{
-		float: right;
-		width: 60%;
-	}
-  
-  .video-container {
+  body{
+    margin: 0;
+    padding: 0;
+  }
+  .wrapper{
+    width: 100%;
+    margin: 0 auto;
+  }
+  .header {
+    height: 20px;
+    background-color: white;
+}
+.contentwrap {
+    background-color: white
+}
+.contentwrap:after {
+    content: ".";
+    display: block;
+    clear: both;
+    visibility: hidden;
+    line-height: 0;
+    height: 0;
+}
+.navArea {
+    float: left;
+    width: 25%;
+    background-color: white;
+    margin: 0 0 0 0;
+    padding: 0;
+}
+.contentArea {
+    float: right;
+     width: 70%;
+    background-color: white;
+    margin: 0;
+    padding: 0;
+}
+.footer {
+    background-color: white;
+    height: 5px;
+    clear: both;
+}
+ .video-container {
   clear:left;
   position:relative;
 	padding-bottom:56.25%;
@@ -35,37 +64,45 @@ header:
   float:right;
   top:0;
 	right:0;
-	width:96%;
+	width:100%;
 	height:100%;
 } 
-  
+
+hr {
+  background-color:#000000;
+  color:#000000;
+  border:#000000;
+  height:1px;
+}
+
 </style>
 
-
-<h1>Videos</h1>
-
-<div id="container">
-	<div id="rechts">
-    <div class="video-container">
+<p align="center">We invite researchers to collaborate using the HippoC platform. Check out the project videos below.</p>
+<p line-height="3em"> </p>
+<div class="wrapper">
+  <header class="header"><hr></header>
+    <section class="contentwrap">
+      <nav class="navArea">HippoCampus Micro AUV Video by</nav>
+      <article class="contentArea">
+      <div class="video-container">
       <iframe width="560" height="315" src="https://www.youtube.com/embed/PrH_exw1WXw" frameborder="0" allowfullscreen></iframe>
     </div>
-  </div>
-  <div id="links">HippoCampus Micro AUV <br>
-    <br>Video by 
-		<div style="clear:both"></div>
-	</div>
+      </article>
+    </section>
+    <div class="footer"><hr></div>
 </div>
 
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<p line-height="30px"> </p>
 
-<div id="container">
-	<div id="rechts">
-    <div class="video-container">
+<div class="wrapper">
+  <header class="header"><hr></header>
+    <section class="contentwrap">
+      <nav class="navArea">HippoCampus Micro AUV Video by</nav>
+      <article class="contentArea">
+      <div class="video-container">
       <iframe width="560" height="315" src="https://www.youtube.com/embed/PrH_exw1WXw" frameborder="0" allowfullscreen></iframe>
     </div>
-  </div>
-  <div id="links">HippoCampus Micro AUV <br>
-    <br>Video by 
-		<div style="clear:both"></div>
-	</div>
+      </article>
+    </section>
+    <div class="footer"><hr></div>
 </div>
