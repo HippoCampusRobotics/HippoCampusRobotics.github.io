@@ -10,4 +10,4 @@ header:
 
 <h1>Videos</h1>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PrH_exw1WXw" frameborder="0" allowfullscreen></iframe>
+<iframe width="460" height="265" src="https://www.youtube.com/embed/PrH_exw1WXw" frameborder="0" allowfullscreen></iframe>
