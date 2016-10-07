@@ -29,9 +29,8 @@ header:
 	height:0;
   overflow:hidden;
   }
-</style>
-<style>
-.video-container iframe, div.video-container object, div.video-container embed {
+  
+  .video-container iframe, div.video-container object, div.video-container embed {
 	position:absolute;
   float:right;
   top:0;
