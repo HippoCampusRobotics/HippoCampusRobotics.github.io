@@ -9,7 +9,7 @@ header:
 ---
 <style>
 .video-container {
-	position:absolute;
+	position:relative;
   right:10px;
 	padding-bottom:56.25%;
 	padding-top:30px;
@@ -27,7 +27,7 @@ header:
 } 
 </style>
 
-<h1>Videos</h1>
+<h1>Video</h1>
 <div class="video-container">
 <iframe width="200" height="100" src="https://www.youtube.com/embed/PrH_exw1WXw" frameborder="0" allowfullscreen></iframe>
 </div>
