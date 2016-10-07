@@ -8,14 +8,16 @@ header:
   image: logoheader.jpg
 ---
 <style>
-div.video-container {
+.video-container {
 	position:relative;
 	padding-bottom:56.25%;
 	padding-top:30px;
 	height:0;
 	overflow:hidden;
   }
-div.video-container iframe, div.video-container object, div.video-container embed {
+</style>
+<style>
+.video-container iframe, div.video-container object, div.video-container embed {
 	position:absolute;
 	top:0;
 	left:0;
