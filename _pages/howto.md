@@ -29,7 +29,7 @@ header:
       
   <p>Auf dieser Beispielseite möchten wir die Positionierung mit CSS zeigen.
   In der rechten oberen Ecke des Dokuments wird eine grau umrahmte, absolut positionierte Box angezeigt.</p>
-      <p>Lorem ipsum … </p>
+     <p>Lorem ipsum … </p>
       <div id="info-box">
         Dies könnte eine Info-Box sein, die einen Link, ein Bild oder ähnliches enthält. 
       </div>
