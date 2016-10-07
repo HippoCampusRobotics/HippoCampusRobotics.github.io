@@ -13,6 +13,7 @@ header:
 	padding-bottom:56.25%;
 	padding-top:30px;
 	height:0;
+  left:30px;
 	overflow:hidden;
   }
 </style>
