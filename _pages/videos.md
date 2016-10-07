@@ -9,20 +9,8 @@ header:
 ---
 
 
-<h1>Videos</h1>
+<h1>Videostest</h1>
 
-<div class="embed-container">
+<embed width=“300″ height=“169″>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PrH_exw1WXw" frameborder="0" allowfullscreen></iframe>
-</div>
-.embed-container iframe {
-
-  position: absolute; 
-  top: 0; 
-  left: 0; 
-  width: 100%; 
-  height: 100%; 
-}
-/* ratio 4x3 */
-.embed-container.ratio4x3 {
-  padding-bottom: 75%;
-}
+</embed>
