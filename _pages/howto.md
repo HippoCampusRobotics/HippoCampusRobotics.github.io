@@ -18,7 +18,7 @@ header:
     margin: 0 auto;
   }
   .header {
-    height: 120px;
+    height: 5px;
     background-color: white;
 }
 .contentwrap {
@@ -47,8 +47,8 @@ header:
     padding: 0;
 }
 .footer {
-    background-color: yellow;
-    height: 50px;
+    background-color: white;
+    height: 5px;
     clear: both;
 }
  .video-container {
@@ -81,12 +81,12 @@ hr {
 <h1>How To do</h1>
 
 <div class="wrapper">
-  <header class="header">Titel</header>
+  <header class="header"><hr></header>
     <section class="contentwrap">
       <nav class="navArea">Menu</nav>
       <article class="contentArea">Inhalt</article>
     </section>
-    <div class="footer">Fusszeile</div>
+    <div class="footer"><hr></div>
 </div>
 <p line-height="10em"></p>
 <div class="wrapper">
@@ -99,6 +99,6 @@ hr {
     </div>
       </article>
     </section>
-    <div class="footer">Fusszeile</div>
+    <div class="footer"><hr></div>
 </div>
 
