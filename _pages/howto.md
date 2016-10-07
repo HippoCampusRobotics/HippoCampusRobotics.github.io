@@ -21,8 +21,29 @@ header:
 }
 </style>
 
+
+<style>
+	#container {
+		background:#00FF00;
+	}
+	#links{
+		margin-right: 150px;
+	}
+	#rechts{
+		float: right;
+		width: 150px;
+	}
+</style>
+
+
 <h1>How To do</h1>
 
 <div class="box1">Blablablub <br> Test</div>
 <div class="box2">Blubblubbla</div>
 <div class="box3">Blablubbla</div>
+
+<div id="container">
+	<div id="rechts">test</div>
+	<div id="links">terasdt</div>
+	<div style="clear:both"></div>
+</div>
