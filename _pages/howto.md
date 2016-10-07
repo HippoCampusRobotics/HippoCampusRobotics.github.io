@@ -14,7 +14,7 @@ header:
     padding: 0;
   }
   .wrapper{
-    width: 800px;
+    width: 90%;
     margin: 0 auto;
   }
   .header {
@@ -34,14 +34,14 @@ header:
 }
 .navArea {
     float: left;
-    width: 100px;
+    width: 30%;
     background-color: white;
     margin: 0 15px 0 0;
     padding: 0;
 }
 .contentArea {
     float: left;
-     width: 685px;
+     width: 70%;
     background-color: silver;
     margin: 0;
     padding: 0;
@@ -53,7 +53,7 @@ header:
 }
 </style>
 
-<h1>How To</h1>
+<h1>How To do</h1>
 
 <div class="wrapper">
   <header class="header">Titel</header>
