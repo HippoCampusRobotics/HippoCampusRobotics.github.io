@@ -18,7 +18,7 @@ header:
     margin: 0 auto;
   }
   .header {
-    height: 15px;
+    height: 20px;
     background-color: white;
 }
 .contentwrap {
