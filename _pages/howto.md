@@ -48,7 +48,7 @@ header:
 }
 .footer {
     background-color: white;
-    height: 5px;
+    height: 3px;
     clear: both;
 }
  .video-container {
@@ -70,10 +70,10 @@ header:
 } 
 
 hr {
-  background-color:#FF0000;
-  color:#FF0000;
-  border:#FF0000;
-  height:1px;
+  background-color:#000000;
+  color:#000000;
+  border:#000000;
+  height:2px;
 }
 
 </style>
