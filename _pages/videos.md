@@ -13,7 +13,7 @@ header:
 	padding-bottom:56.25%;
 	padding-top:30px;
 	height:0;
-  right:0;
+  left:100px;
 	overflow:hidden;
   }
 </style>
@@ -27,7 +27,7 @@ header:
 } 
 </style>
 
-<h1>Video Test Test Test</h1>
+<h1>Video Test Tes Test</h1>
 <div class="video-container">
 <iframe width="200" height="100" src="https://www.youtube.com/embed/PrH_exw1WXw" frameborder="0" allowfullscreen></iframe>
 </div>
