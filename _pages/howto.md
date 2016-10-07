@@ -10,8 +10,6 @@ header:
 <style>
 	#container {
 		background:#eee;
-    display: flex;
-    align-items: center;
 	}
 	#links{
 		margin-right: 62%;	
