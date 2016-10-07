@@ -11,6 +11,4 @@ header:
 
 <h1>Videostest</h1>
 
-<embed width=“300″ height=“169″>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PrH_exw1WXw" frameborder="0" allowfullscreen></iframe>
-</embed>
+<iframe width="200" height="100" src="https://www.youtube.com/embed/PrH_exw1WXw" frameborder="0" allowfullscreen></iframe>
