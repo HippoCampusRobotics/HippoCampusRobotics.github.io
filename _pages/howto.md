@@ -13,6 +13,7 @@ header:
 	}
 	#links{
 		margin-right: 62%;	
+    vertical-align: middle;
 	}
 	#rechts{
 		float: right;
@@ -41,7 +42,7 @@ header:
 </style>
 
 
-<h1>How To d</h1>
+<h1>How To</h1>
 
 <div id="container">
 	<div id="rechts">
@@ -49,7 +50,7 @@ header:
       <iframe width="560" height="315" src="https://www.youtube.com/embed/PrH_exw1WXw" frameborder="0" allowfullscreen></iframe>
     </div>
   </div>
-  <div id="links" align="center" vertical-align="middle">HippoCampus Micro AUV gyro and attitude controlled
+  <div id="links" align="center">HippoCampus Micro AUV gyro and attitude controlled
 		<div style="clear:both"></div>
 	</div>
 </div>
