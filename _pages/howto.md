@@ -37,7 +37,7 @@ header:
 </style>
 
 
-<h1>How To</h1>
+<h1>How To do</h1>
 
 <div class="box1">Blablablub <br> Test</div>
 <div class="box2">Blubblubbla</div>
