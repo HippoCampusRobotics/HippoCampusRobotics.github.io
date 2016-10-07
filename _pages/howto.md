@@ -65,7 +65,7 @@ header:
   float:right;
   top:0;
 	right:0;
-	width:96%;
+	width:100%;
 	height:100%;
 } 
 
