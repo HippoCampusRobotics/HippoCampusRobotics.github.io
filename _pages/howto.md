@@ -36,7 +36,7 @@ header:
     float: left;
     width: 30%;
     background-color: white;
-    margin: 0 30px 0 0;
+    margin: 0 15px 0 0;
     padding: 0;
 }
 .contentArea {
