@@ -14,15 +14,15 @@ header:
 	padding-top:30px;
 	height:0;
 	overflow:hidden;
-  right: 10px;
   }
-  
+</style>
+<style>
 .video-container iframe, div.video-container object, div.video-container embed {
 	position:absolute;
 	top:0;
 	left:0;
-	width:50%;
-	height:50%;
+	width:75%;
+	height:75%;
 } 
 </style>
 
