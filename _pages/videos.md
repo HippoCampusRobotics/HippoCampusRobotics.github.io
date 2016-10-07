@@ -12,7 +12,7 @@ header:
   clear:left;
   position:relative;
 	padding-bottom:56.25%;
-	padding-top:10px;
+	padding-top:1px;
 	height:0;
   overflow:hidden;
   }
@@ -30,7 +30,7 @@ header:
 
 <h1>Videos Test Test</h1>
 
-Das ist ein Videos
+Das ist ein Video
 <div class="video-container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PrH_exw1WXw" frameborder="0" allowfullscreen></iframe>
 </div>
