@@ -14,7 +14,6 @@ header:
 	padding-top:30px;
 	height:0;
 	overflow:hidden;
-  float:right;
   }
 </style>
 <style>
@@ -27,7 +26,7 @@ header:
 } 
 </style>
 
-<h1>Videos</h1>
-<div class="video-container">
+<h1>Video</h1>
+<div class="video-container" style="float:right">
 <iframe width="200" height="100" src="https://www.youtube.com/embed/PrH_exw1WXw" frameborder="0" allowfullscreen></iframe>
 </div>
