@@ -10,6 +10,7 @@ header:
 <style>
 .video-container {
 	position:relative;
+  text-align:center;
 	padding-bottom:56.25%;
 	padding-top:30px;
 	height:0;
@@ -19,7 +20,6 @@ header:
 <style>
 .video-container iframe, div.video-container object, div.video-container embed {
 	position:absolute;
-	text-align:center;
   top:0;
 	left:0;
 	width:50%;
