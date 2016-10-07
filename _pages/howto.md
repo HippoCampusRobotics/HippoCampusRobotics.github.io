@@ -34,13 +34,13 @@ header:
 }
 .navArea {
     float: left;
-    width: 25%;
+    width: 30%;
     background-color: white;
     margin: 0 0 0 0;
     padding: 0;
 }
 .contentArea {
-    float: left;
+    float: right;
      width: 70%;
     background-color: white;
     margin: 0;
