@@ -14,7 +14,7 @@ header:
     padding: 0;
   }
   .wrapper{
-    width: 50%;
+    width: 100%;
     margin: 0 auto;
   }
   .header {
@@ -34,14 +34,14 @@ header:
 }
 .navArea {
     float: left;
-    width: 30%;
+    width: 25%;
     background-color: white;
     margin: 0 15px 0 0;
     padding: 0;
 }
 .contentArea {
     float: left;
-     width: 68%;
+     width: 70%;
     background-color: silver;
     margin: 0;
     padding: 0;
