@@ -78,7 +78,7 @@ hr {
 
 </style>
 
-We invite researchers to collaborate using the HippoC platform. Check out the project videos below.
+<p align="center">We invite researchers to collaborate using the HippoC platform. Check out the project videos below.</p>
 
 <div class="wrapper">
   <header class="header"><hr></header>
