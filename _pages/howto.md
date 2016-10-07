@@ -13,7 +13,7 @@ header:
 	}
 	#links{
 		margin-right: 62%;	
-    padding-top: 20%;
+    height: 50%;
 	}
 	#rechts{
 		float: right;
