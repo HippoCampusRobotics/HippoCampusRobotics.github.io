@@ -25,6 +25,6 @@ feature_row:
 <h1>HippoCampus - Autonomous Underwater Exploration</h1>
 {: .text-center}
 
-Hier steht ein Text
+Hier steht ein Testtext
 
 {% include feature_row %}
