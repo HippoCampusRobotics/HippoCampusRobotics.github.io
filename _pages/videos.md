@@ -20,13 +20,13 @@ header:
 .video-container iframe, div.video-container object, div.video-container embed {
 	position:absolute;
 	top:0;
-	left:0;
-	width:75%;
-	height:75%;
+	right:0;
+	width:50%;
+	height:50%;
 } 
 </style>
 
-<h1>Video</h1>
+<h1>Videos</h1>
 <div class="video-container">
 <iframe width="200" height="100" src="https://www.youtube.com/embed/PrH_exw1WXw" frameborder="0" allowfullscreen></iframe>
 </div>
