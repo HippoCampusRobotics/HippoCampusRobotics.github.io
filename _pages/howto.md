@@ -22,7 +22,7 @@ header:
     background-color: white;
 }
 .contentwrap {
-    background-color: blue
+    background-color: white
 }
 .contentwrap:after {
     content: ".";
