@@ -15,6 +15,7 @@ header:
   padding: 20px;
   background: #eee;
   box-sizing: border-box;
+  margin-bottom: 10px;
 }
 .box3{
   margin-right: 0;
