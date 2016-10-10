@@ -46,8 +46,6 @@ header:
     padding: 0;
 }
 .footer {
-    display: table-cell;
-    vertical-align: bottom;
     background-color: lightblue;
     height: 100px;
     clear: both;
@@ -106,5 +104,5 @@ Test
     </div>
       </article>
     </section>
-    <div class="footer"><hr></div>
+    <div class="footer"><div style="margin-top: auto">Test</div></div>
 </div>
