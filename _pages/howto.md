@@ -18,18 +18,16 @@ header:
     background-color: lightblue;
   }
   
-  .two_containers{
-    background-color: red;
-  }
+
   
   .container_left{  
-    background_color: blue;
+    background_color: orange;
     float: left;
     width: 50%;
   }
   
   .container_right{
-    background_color: grey;
+    background_color: purple;
     float: right;
     width: 50%;
   }
@@ -43,13 +41,11 @@ header:
 
 
 </style>
-test test
+test
 
 <div class="container">
   <div class="header">Header</div>
-  <div class="two_containers">
-    <div class="container_left">left</div>
-    <div class="container_right">right</div>
-  </div>
+  <div class="container_left">left</div>
+  <div class="container_right">right</div>
   <div class="footer">Footer</div>
 </div>
