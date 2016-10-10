@@ -16,6 +16,10 @@ header:
   .header{
     background-color: lightblue;
   }
+  
+  .two_containers{
+    background-color: red;
+  }
 
 
   .video-container {
@@ -36,12 +40,13 @@ header:
 	height:100%;
 } 
 </style>
-test test
+test
 
 <div class="container">
   <div class="header">
-
-<div class="video-container"></div>
-
+    <div class="two_containers">
+    
+              <div class="video-container"></div>
+    </div>
   </div>
 </div>
