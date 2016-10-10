@@ -92,7 +92,7 @@ hr {
     <div class="footer"><p style="font-size: 0.5px;"><br></p><hr></div>
 </div>
 
-<p line-height="30px"> </p>
+<br><br><br>
 
 <div class="wrapper">
   <header class="header"><hr></header>
