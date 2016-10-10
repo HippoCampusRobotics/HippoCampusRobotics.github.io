@@ -104,5 +104,5 @@ Test
     </div>
       </article>
     </section>
-    <div class="footer"><h1 style="text-align: bottom;">Test</h1></div>
+    <div class="footer"><h1 style="vertical-align: bottom;">Test</h1></div>
 </div>
