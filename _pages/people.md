@@ -22,4 +22,6 @@ feature_row:
 
 <h1>People</h1>
 
+<div style="width:80%;">
 {% include feature_row %}
+<div>
