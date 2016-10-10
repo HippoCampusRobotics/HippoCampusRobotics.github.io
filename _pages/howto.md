@@ -22,6 +22,18 @@ header:
     background-color: red;
   }
   
+  .container_left{  
+    background_color: blue;
+    float: left;
+    width: 50%;
+  }
+  
+  .container_right{
+    background_color: grey;
+    float: right;
+    width: 50%;
+  }
+  
   .footer{
     background-color: yellow;
     height: 30px;
@@ -29,30 +41,15 @@ header:
   }
 
 
-  .video-container {
-  clear:left;
-  position:relative;
-	padding-bottom:56.25%;
-	padding-top:1px;
-	height:0;
-  overflow:hidden;
-  }
-  
-  .video-container iframe, div.video-container object, div.video-container embed {
-	position:absolute;
-  float:right;
-  top:0;
-	right:0;
-	width:100%;
-	height:100%;
-} 
+
 </style>
-test
+test test
 
 <div class="container">
   <div class="header">Header</div>
   <div class="two_containers">
-    
+    <div class="container_left"></div>
+    <div class="container_right"></div>
   </div>
   <div class="footer">Footer</div>
 </div>
