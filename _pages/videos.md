@@ -76,7 +76,7 @@ hr {
 }
 
 </style>
-Test test
+Test test test
 <p align="center">We invite researchers to collaborate using the HippoC platform. Check out the project videos below.</p>
 <p line-height="3em"> </p>
 <div class="wrapper">
