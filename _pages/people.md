@@ -21,5 +21,6 @@ feature_row:
 ---
 
 <h1>Team</h1>
+{: .text-center}
 
 <div style="width:70%;margin:auto;">{% include feature_row %}</div>
