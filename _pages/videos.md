@@ -104,5 +104,5 @@ Test tes
     </div>
       </article>
     </section>
-    <div class="footer"><div style="display: table-cell; vertical-align:bottom;">Test</div></div>
+    <div class="footer"><span style="display: table-cell; vertical-align:bottom;">Test</span></div>
 </div>
