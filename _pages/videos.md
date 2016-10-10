@@ -18,7 +18,7 @@ header:
   }
   .header {
     height: 20px;
-    background-color: white;
+    background-color: lightblue;
 }
 .contentwrap {
     background-color: white
@@ -46,8 +46,8 @@ header:
     padding: 0;
 }
 .footer {
-    background-color: white;
-    height: 5px;
+    background-color: lightblue;
+    height: 20px;
     clear: both;
 }
  .video-container {
@@ -78,10 +78,9 @@ hr {
 </style>
 
 <p align="center">We invite researchers to collaborate using the HippoC platform. Check out the project videos below.</p>
-<hr>
 <p line-height="3em"> </p>
 <div class="wrapper">
-  <header class="header"></header>
+  <header class="header"><hr></header>
     <section class="contentwrap">
     <nav class="navArea"><ul>HippoCampus Micro AUV</ul><ul> Video bas</ul></nav>
       <article class="contentArea">
