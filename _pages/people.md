@@ -9,3 +9,4 @@ header:
 ---
 
 <h1>People</h1>
+author: Billy Rick
