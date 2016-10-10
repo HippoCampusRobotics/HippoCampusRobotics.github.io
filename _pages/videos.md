@@ -104,5 +104,5 @@ Test test
     </div>
       </article>
     </section>
-    <div class="footer"><p style="font-size: 1px;"><br><p><hr></div>
+    <div class="footer"><p style="font-size: 1px;"><br></p><hr></div>
 </div>
