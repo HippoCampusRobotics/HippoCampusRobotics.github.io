@@ -25,3 +25,6 @@ feature_row:
 <div style="width:80%;margin:auto;">
 {% include feature_row %}
 <div>
+<div style="width:80%;margin:auto;">
+{% include feature_row %}
+<div>
