@@ -46,6 +46,8 @@ header:
     padding: 0;
 }
 .footer {
+    position: absolute;
+    bottom:0px;
     background-color: lightblue;
     height: 100px;
     clear: both;
@@ -76,7 +78,7 @@ hr {
 }
 
 </style>
-Test tes
+Test test
 <p align="center">We invite researchers to collaborate using the HippoC platform. Check out the project videos below.</p>
 <p line-height="3em"> </p>
 <div class="wrapper">
@@ -104,5 +106,5 @@ Test tes
     </div>
       </article>
     </section>
-    <div class="footer"><span style="display: block; vertical-align:bottom;">Test</span></div>
+    <div class="footer">Test</div>
 </div>
