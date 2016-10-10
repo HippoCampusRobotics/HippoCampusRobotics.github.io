@@ -21,13 +21,13 @@ header:
   .container_left{  
     background-color: orange;
     float: left;
-    width: 50%;
+    width: 30%;
   }
   
   .container_right{
     background-color: purple;
     float: right;
-    width: 50%;
+    width: 70%;
   }
   
   .footer{
@@ -39,7 +39,7 @@ header:
 
 
 </style>
-test
+test test
 
 <div class="container">
   <div class="header">Header</div>
