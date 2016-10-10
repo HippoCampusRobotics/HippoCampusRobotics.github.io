@@ -8,7 +8,13 @@ header:
   image: logoheader.jpg
 ---
 <style>
- .video-container {
+  .container{
+    width: 100%;
+    margin: 0 auto;
+  }
+
+
+  .video-container {
   clear:left;
   position:relative;
 	padding-bottom:56.25%;
@@ -26,7 +32,11 @@ header:
 	height:100%;
 } 
 </style>
+test
 
-<div class="video_container">
+<div class="container">
+
+<div class="video-container">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/PrH_exw1WXw" frameborder="0" allowfullscreen></iframe>
+</div>
 </div>
