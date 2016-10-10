@@ -49,6 +49,7 @@ header:
     background-color: lightblue;
     height: 20px;
     clear: both;
+    vertical-align:bottom;
 }
  .video-container {
   clear:left;
@@ -76,7 +77,7 @@ hr {
 }
 
 </style>
-
+Test
 <p align="center">We invite researchers to collaborate using the HippoC platform. Check out the project videos below.</p>
 <p line-height="3em"> </p>
 <div class="wrapper">
