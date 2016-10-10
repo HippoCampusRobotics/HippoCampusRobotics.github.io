@@ -46,7 +46,7 @@ header:
     padding: 0;
 }
 .footer {
-    position: absolute;
+    position: relative;
     bottom: 0;
     background-color: lightblue;
     height: 100px;
