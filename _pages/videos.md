@@ -48,6 +48,7 @@ header:
 .footer {
     background-color: lightblue;
     height: 100px;
+    vertical-align: bottom;
     clear: both;
 }
  .video-container {
@@ -104,5 +105,5 @@ Test test
     </div>
       </article>
     </section>
-    <div class="footer"><h1 style="vertical-align: bottom;">Test</h1></div>
+    <div class="footer">Test</div>
 </div>
