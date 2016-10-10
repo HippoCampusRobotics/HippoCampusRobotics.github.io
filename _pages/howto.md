@@ -14,6 +14,7 @@ header:
   }
   
   .header{
+    height:5px;
     background-color: lightblue;
   }
   
@@ -40,7 +41,7 @@ header:
 	height:100%;
 } 
 </style>
-test
+test test
 
 <div class="container">
   <div class="header">
