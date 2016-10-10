@@ -17,17 +17,15 @@ header:
     height: 30px;
     background-color: lightblue;
   }
-  
 
-  
   .container_left{  
-    background_color: orange;
+    background-color: orange;
     float: left;
     width: 50%;
   }
   
   .container_right{
-    background_color: purple;
+    background-color: purple;
     float: right;
     width: 50%;
   }
