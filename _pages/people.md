@@ -6,7 +6,7 @@ excerpt: "People"
 sitemap: false
 header:
   image: logoheader.jpg
-members_row1:
+feature_row:
   - image_path: placeholder-male.jpg
     alt: "placeholder image 1"
     title: "Max Mustermann"
@@ -20,6 +20,6 @@ members_row1:
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
 ---
 
-<h2>Team</h2>{: .text-center}
+<h1>Team</h1>
 
-<div style="width:70%;margin:auto;">{% include members_row1 %}</div>
+<div style="width:70%;margin:auto;">{% include feature_row %}</div>
