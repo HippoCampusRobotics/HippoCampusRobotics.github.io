@@ -29,6 +29,7 @@ header:
   
   .container_right{
     background-color: purple;
+    float: right;
     width: 70%;
   }
   
