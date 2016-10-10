@@ -18,7 +18,7 @@ header:
   }
   .header {
     height: 20px;
-    background-color: lightblue;
+    background-color: white;
 }
 .contentwrap {
     background-color: white
@@ -46,7 +46,7 @@ header:
     padding: 0;
 }
 .footer {
-    background-color: lightblue;
+    background-color: white;
     height: 20px;
     clear: both;
 }
@@ -82,14 +82,14 @@ Test test
 <div class="wrapper">
   <header class="header"><hr></header>
     <section class="contentwrap">
-    <nav class="navArea"><ul>HippoCampus Micro AUV</ul><ul> Video bas</ul></nav>
+    <nav class="navArea"><ul>HippoCampus Micro AUV</ul><ul> Video by</ul></nav>
       <article class="contentArea">
       <div class="video-container">
       <iframe width="560" height="315" src="https://www.youtube.com/embed/PrH_exw1WXw" frameborder="0" allowfullscreen></iframe>
     </div>
       </article>
     </section>
-    <div class="footer"><hr></div>
+    <div class="footer"><p style="font-size: 0.5px;"><br></p><hr></div>
 </div>
 
 <p line-height="30px"> </p>
