@@ -48,8 +48,8 @@ test test
 <div class="container">
   <div class="header">Header</div>
   <div class="two_containers">
-    <div class="container_left"></div>
-    <div class="container_right"></div>
+    <div class="container_left">left</div>
+    <div class="container_right">right</div>
   </div>
   <div class="footer">Footer</div>
 </div>
