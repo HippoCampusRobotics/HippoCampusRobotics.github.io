@@ -3,7 +3,7 @@ title: "People"
 permalink: /pages/people/
 layout: splash
 excerpt: "People"
-sitemap: false
+sitemap: true
 author: Billy Rick
 header:
   image: logoheader.jpg
