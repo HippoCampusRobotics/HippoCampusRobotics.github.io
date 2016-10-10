@@ -48,7 +48,7 @@ header:
 .footer {
     background-color: lightblue;
     height: 100px;
-    vertical-align: bottom;
+    bottom: 0;
     clear: both;
 }
  .video-container {
