@@ -6,21 +6,33 @@ excerpt: "People"
 sitemap: false
 header:
   image: logoheader.jpg
-feature_row:
+members_row1:
   - image_path: placeholder-male.jpg
     alt: "placeholder image 1"
-    title: "Placeholder 1"
+    title: "Max Mustermann"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
   - image_path: placeholder-male.jpg
     alt: "placeholder image 2"
-    title: "Placeholder 2"
+    title: "Max Mustermann"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
-  - image_path: unsplash-gallery-image-3-th.jpg
-    title: "Placeholder 3"
+  - image_path: placeholder-male.jpg
+    title: "Max Mustermann"
+    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+members_row2:
+  - image_path: placeholder-male.jpg
+    alt: "placeholder image 1"
+    title: "Max Mustermann"
+    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+  - image_path: placeholder-male.jpg
+    alt: "placeholder image 2"
+    title: "Max Mustermann"
+    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+  - image_path: placeholder-male.jpg
+    title: "Max Mustermann"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
 ---
 
-<h1>People</h1>
+<h2>Team</h2>{: .text-center}
 
-<div style="width:70%;margin:auto;">{% include feature_row %}</div>
-<div style="width:70%;margin:auto;">{% include feature_row %}</div>
+<div style="width:70%;margin:auto;">{% include members_row1 %}</div>
+<div style="width:70%;margin:auto;">{% include members_row2 %}</div>
