@@ -6,7 +6,7 @@ excerpt: "People"
 sitemap: false
 header:
   image: logoheader.jpg
-members_row:
+feature_row:
   - image_path: placeholder-male.jpg
     alt: "placeholder image 1"
     title: "Max Mustermann"
@@ -23,4 +23,5 @@ members_row:
 <h2>Team2</h2>
 {: .text-center}
 
-<div style="width:80%;margin:auto;">{% include members_row %}</div>
+<div style="width:80%;margin:auto;">{% include feature_row %}</div>
+<div style="width:80%;margin:auto;">{% include feature_row id="row2" %}</div>
