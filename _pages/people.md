@@ -18,7 +18,7 @@ feature_row:
   - image_path: placeholder-male.jpg
     title: "Max Mustermann"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
-feature_row2:
+feature_row id="row2":
   - image_path: placeholder-male.jpg
     alt: "placeholder image 1"
     title: "Max Mustermann"
@@ -32,7 +32,7 @@ feature_row2:
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
 ---
 
-<h2>Team</h2>
+<h2>Team t</h2>
 {: .text-center}
 
 <div style="width:80%;margin:auto;">{% include feature_row %}</div>
