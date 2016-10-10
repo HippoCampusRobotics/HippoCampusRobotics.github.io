@@ -19,7 +19,7 @@ header:
   }
   
   .two_container{
-    clear: both;
+  
   }
   .container_left{  
     background-color: orange;
@@ -46,8 +46,9 @@ test test
 <div class="container">
   <div class="header">Header</div>
   <div class="two_container">
-    <div class="container_left"><ul>HippoCampus Micro AUV</ul><ul> Video by</ul></div>
+    <div class="container_left"><ul>HippoCampus Micro AUV</ul><ul> Video</ul></div>
     <div class="container_right">right</div>
+    <div style="clear:both;"></div>
   </div>
   <div class="footer">Footer</div>
 </div>
