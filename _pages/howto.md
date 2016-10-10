@@ -19,7 +19,7 @@ header:
   }
   
   .two_container{
-    height: auto;
+  
   }
   .container_left{  
     background-color: orange;
