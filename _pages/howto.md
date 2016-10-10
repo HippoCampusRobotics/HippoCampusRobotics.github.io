@@ -21,6 +21,12 @@ header:
   .two_containers{
     background-color: red;
   }
+  
+  .footer{
+    background-color: yellow;
+    height: 5px;
+    clear: both;  
+  }
 
 
   .video-container {
@@ -41,13 +47,13 @@ header:
 	height:100%;
 } 
 </style>
-test test
+test
 
 <div class="container">
-  <div class="header">
-    <div class="two_containers">
+  <div class="header">Header</div>
+  <div class="two_containers">
     
               <div class="video-container"></div>
-    </div>
   </div>
+  <div class="footer">Footer</div>
 </div>
