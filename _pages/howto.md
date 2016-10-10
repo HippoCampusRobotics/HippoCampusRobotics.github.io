@@ -43,7 +43,7 @@ test test
 
 <div class="container">
   <div class="header">Header</div>
-  <div class="container_left">left</div>
+  <div class="container_left"><ul>HippoCampus Micro AUV</ul><ul> Video bas</ul></div>
   <div class="container_right">right</div>
   <div class="footer">Footer</div>
 </div>
