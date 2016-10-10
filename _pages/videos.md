@@ -106,5 +106,5 @@ Test
     </div>
       </article>
     </section>
-    <div class="footer">Test</div>
+    <div class="footer"><hr></div>
 </div>
