@@ -14,7 +14,7 @@ header:
   }
   
   .header{
-    height:5px;
+    height:20px;
     background-color: lightblue;
   }
   
@@ -24,7 +24,7 @@ header:
   
   .footer{
     background-color: yellow;
-    height: 5px;
+    height: 20px;
     clear: both;  
   }
 
@@ -53,7 +53,7 @@ test
   <div class="header">Header</div>
   <div class="two_containers">
     
-              <div class="video-container"></div>
+             /* <div class="video-container"></div>*/
   </div>
   <div class="footer">Footer</div>
 </div>
