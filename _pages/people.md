@@ -20,7 +20,7 @@ feature_row:
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
 ---
 
-<h1>Team</h1>
+<h2>Team</h2>
 {: .text-center}
 
 <div style="width:70%;margin:auto;">{% include feature_row %}</div>
