@@ -1,20 +1,20 @@
 # main links links
 main:
   - title: "About"
-    url: https://johtobi.github.io/pages/about
+    url: /pages/about
     
   - title: "Research"
-    url: https://johtobi.github.io/pages/research
+    url: /pages/research
 
   - title: "People"
-    url: https://johtobi.github.io/pages/people
+    url: /pages/people
   
   - title: "Videos"
-    url: https://johtobi.github.io/pages/videos
+    url: /pages/videos
 
   - title: "How To"
     url: /pages/howto
     
   - title: "Contact"
-    url: https://johtobi.github.io/pages/contact
+    url: /pages/contact
 
