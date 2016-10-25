@@ -2,7 +2,7 @@
 title: "Contact"
 permalink: /pages/contact/
 layout: splash
-excerpt: "Contact HippoC"
+excerpt: "Contact"
 sitemap: false
 ---
 
