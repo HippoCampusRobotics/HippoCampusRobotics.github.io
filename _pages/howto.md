@@ -2,7 +2,7 @@
 title: "HowTo"
 permalink: /pages/howto/
 layout: splash
-excerpt: "How To"
+excerpt: "howto"
 sitemap: false
 ---
 
