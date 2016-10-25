@@ -4,8 +4,6 @@ permalink: /pages/people/
 layout: splash
 excerpt: "People"
 sitemap: false
-header:
-  image: logoheader2.jpg
 feature_row:
   - image_path: placeholder-male.jpg
     title: "Max Mustermann"
