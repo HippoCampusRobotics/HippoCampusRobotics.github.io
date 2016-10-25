@@ -4,8 +4,6 @@ permalink: /pages/videos/
 layout: splash
 excerpt: "Videos HippoC"
 sitemap: false
-header:
-  image: logoheader.jpg
 ---
 <style>
   body{
