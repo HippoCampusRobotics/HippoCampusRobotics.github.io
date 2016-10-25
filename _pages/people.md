@@ -5,7 +5,7 @@ layout: splash
 excerpt: "People"
 sitemap: false
 header:
-  image: logoheader.jpg
+  image: logoheader2.jpg
 feature_row:
   - image_path: placeholder-male.jpg
     title: "Max Mustermann"
@@ -27,7 +27,7 @@ feature_row:
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
 ---
 
-<h2>Team 2</h2>
+<h2>Team</h2>
 {: .text-center}
 
 <div style="width:80%;margin:auto;">{% include feature_row %}</div>
