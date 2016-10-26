@@ -12,8 +12,8 @@ feature_row:
   - image_path: AUV.JPG
     excerpt: "Current version of HippoCampus." 
 ---
-<style>
-  p { margin-left: 5em; background-color: red; }
+<style type="text/css">
+  p {margin-left: 150px;
 </style>
 
 <h1>Motivation</h1>
