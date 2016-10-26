@@ -8,10 +8,10 @@ feature_row:
   - image_path: https://www.tuhh.de/t3resources/mum/_processed_/csm_2014-12-05_10.28.15_nocable_small_34d2a69318.jpg
     title: "Max Mustermann"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."   
-  - image_path: https://www.tuhh.de/t3resources/mum/_processed_/csm_AUV_render_iso_copped_5ee548648b.png
+  - image_path: AUV_CAD.jpg
     title: "Max Mustermann"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
-  - image_path: https://www.tuhh.de/t3resources/mum/_processed_/csm_HippoC_photo_9cdefa15d9.jpg
+  - image_path: AUV.jpg
     title: "Max Mustermann"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
 ---
