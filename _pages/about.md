@@ -12,7 +12,6 @@ feature_row:
   - image_path: AUV.JPG
     excerpt: "Current version of HippoCampus." 
 ---
-/* Motivation */
 <div style="margin-left:10%; margin-right:10%; text-align: justify">
   <h1>Motivation</h1>
   The world's oceans have been a crucial part for life on earth in the past and present, but will also determine our future.
@@ -28,10 +27,8 @@ feature_row:
 </div>
 <br>
 
-/* Pictures of HippoCampus */
 <div style="width:80%;margin:auto;">{% include feature_row %}</div>
 
-/* Project Description */
 <div style="margin-left:10%; margin-right:10%; text-align: justify">
   <h1>Project Description</h1>
   We develop an AUV system with a computational fluid dynamics (CFD) simulation in the loop. 
@@ -45,7 +42,6 @@ feature_row:
 </div>
 <br>
 
-/* Vehicle Hardware */
 <div style="margin-left:10%; margin-right:10%; text-align: justify">
   <h1>Vehicle Hardware</h1>
   The current underwater vehicle setup represents a very flexible and robust control platform. 
@@ -56,7 +52,7 @@ feature_row:
   The PX4 middleware runs on top of the operating system and provides device drivers and a <a href="https://en.wikipedia.org/wiki/Object_request_broker" target="_blank">micro object request broker (uORB)</a> for asynchronous communication. 
   Our HippoCampus control stack is a custom, BSD licensed underwater vehicle control stack, providing remote controlled and fully autonomous operations for our underwater vehicle hardware.
 </div>
-  /* Button repository */
+
   <a href="https://github.com/EugenSol/FirmwareBeta" class="btn btn--warning" target="_blank">Our GitHub repository</a>
 {: .text-center}
 
