@@ -12,6 +12,7 @@ feature_row:
   - image_path: AUV.JPG
     excerpt: "Current version of HippoCampus." 
 ---
+/* Motivation */
 <div style="margin-left:10%; margin-right:10%; text-align: justify">
   <h1>Motivation</h1>
   The world's oceans have been a crucial part for life on earth in the past and present, but will also determine our future.
@@ -26,19 +27,39 @@ feature_row:
   to evaluate mission performance and coordinate itself with other vehicles working on the same or similar task.
 </div>
 <br>
+
+/* Pictures of HippoCampus */
 <div style="width:80%;margin:auto;">{% include feature_row %}</div>
 
+/* Project Description */
 <div style="margin-left:10%; margin-right:10%; text-align: justify">
-<h1>Project Description</h1>
-We develop an AUV system with a computational fluid dynamics (CFD) simulation in the loop. This allows the modeling of realistic environmental dynamics by the simulation of the flow field and an estimation of sinks, sources (of heat, pollution, etc) and boundary conditions. Also, the results from the fluid dynamics simulation are fed back into the path planner for the AUVs. Depending on the mission objectives, regions with a high likelihood for sources can be of higher or lower interest as regions with a high field variable variance. Task allocation and consensus algorithms decide how the team of vehicles navigates within the field to satisfy both, robustness and a fast mission execution.
-
-<h1>Vehicle Hardware</h1>
-The current underwater vehicle setup represents a very flexible and robust control platform. We use a <a href="https://pixhawk.org/modules/pixhawk" target="_blank">Pixhawk</a> board with a 168 MHz Cortex M4F CPU (256 KB RAM, 2 MB Flash) and onboard sensors (3D ACC / Gyro / MAG / Baro). PX4 is an independent, open-source, open-hardware project (BSD licensed) for mobile robotics applications. The PX4 platform runs <a href="https://en.wikipedia.org/wiki/NuttX" target="_blank">NuttX</a>, a small footprint real-time operating system (RTOS), which provides a POSIX-style environment. The PX4 middleware runs on top of the operating system and provides device drivers and a <a href="https://en.wikipedia.org/wiki/Object_request_broker" target="_blank">micro object request broker (uORB)</a> for asynchronous communication. Our HippoCampus control stack is a custom, BSD licensed underwater vehicle control stack, providing remote controlled and fully autonomous operations for our underwater vehicle hardware.
+  <h1>Project Description</h1>
+  We develop an AUV system with a computational fluid dynamics (CFD) simulation in the loop. 
+  This allows the modeling of realistic environmental dynamics by the simulation of the flow field and an estimation of sinks,  
+  sources (of heat, pollution, etc) and boundary conditions. 
+  Also, the results from the fluid dynamics simulation are fed back into the path planner for the AUVs. 
+  Depending on the mission objectives, regions with a high likelihood for sources can be of higher or lower interest as regions 
+  with a high field variable variance. 
+  Task allocation and consensus algorithms decide how the team of vehicles navigates within the field to satisfy both, 
+  robustness and a fast mission execution.
 </div>
+<br>
 
-<a href="https://github.com/EugenSol/FirmwareBeta" class="btn btn--warning" target="_blank">Our GitHub repository</a>
-{: .text-center}
+/* Vehicle Hardware */
 <div style="margin-left:10%; margin-right:10%; text-align: justify">
-The vehicle is easy to assemble and is made of off-the-shelf components, 3D printed parts and printed circuit boards. The quad-rotor layout makes the vehicle extremely agile and suitable for hydrobatic maneuvers. 
+  <h1>Vehicle Hardware</h1>
+  The current underwater vehicle setup represents a very flexible and robust control platform. 
+  We use a <a href="https://pixhawk.org/modules/pixhawk" target="_blank">Pixhawk</a> board with a 168 MHz Cortex M4F CPU (256 
+  KB RAM, 2 MB Flash) and onboard sensors (3D ACC / Gyro / MAG / Baro). 
+  PX4 is an independent, open-source, open-hardware project (BSD licensed) for mobile robotics applications. 
+  The PX4 platform runs <a href="https://en.wikipedia.org/wiki/NuttX" target="_blank">NuttX</a>, a small footprint real-time operating system (RTOS), which provides a POSIX-style environment. 
+  The PX4 middleware runs on top of the operating system and provides device drivers and a <a href="https://en.wikipedia.org/wiki/Object_request_broker" target="_blank">micro object request broker (uORB)</a> for asynchronous communication. 
+  Our HippoCampus control stack is a custom, BSD licensed underwater vehicle control stack, providing remote controlled and fully autonomous operations for our underwater vehicle hardware.
+</div>
+  /* Button repository */
+  <a href="https://github.com/EugenSol/FirmwareBeta" class="btn btn--warning" target="_blank">Our GitHub repository</a>
+{: .text-center}
 
+<div style="margin-left:10%; margin-right:10%; text-align: justify">
+  The vehicle is easy to assemble and is made of off-the-shelf components, 3D printed parts and printed circuit boards. The quad-rotor layout makes the vehicle extremely agile and suitable for hydrobatic maneuvers. 
 </div>
