@@ -6,10 +6,8 @@ excerpt: "About HippoC"
 sitemap: false
 feature_row:
   - image_path: https://www.tuhh.de/t3resources/mum/_processed_/csm_2014-12-05_10.28.15_nocable_small_34d2a69318.jpg
-    title: ""
     excerpt: "Working early prototype of HippoCampus."   
   - image_path: AUV_CAD.jpg
-    title: ""
     excerpt: "Next generation conceptual CAD rendering of HippoCampus."
   - image_path: AUV.JPG
     excerpt: "Current version of HippoCampus."
@@ -22,3 +20,10 @@ The world's oceans have been a crucial part for life on earth in the past and pr
 <h1>Project Description</h1>
 We develop an AUV system with a computational fluid dynamics (CFD) simulation in the loop. This allows the modeling of realistic environmental dynamics by the simulation of the flow field and an estimation of sinks, sources (of heat, pollution, etc) and boundary conditions. Also, the results from the fluid dynamics simulation are fed back into the path planner for the AUVs. Depending on the mission objectives, regions with a high likelihood for sources can be of higher or lower interest as regions with a high field variable variance. Task allocation and consensus algorithms decide how the team of vehicles navigates within the field to satisfy both, robustness and a fast mission execution.
 
+
+<h1>Vehicle Hardware</h1>
+The current underwater vehicle setup represents a very flexible and robust control platform. We use a <a href="https://pixhawk.org/modules/pixhawk">Pixhawk</a> board with a 168 MHz Cortex M4F CPU (256 KB RAM, 2 MB Flash) and onboard sensors (3D ACC / Gyro / MAG / Baro). PX4 is an independent, open-source, open-hardware project (BSD licensed) for mobile robotics applications. The PX4 platform runs NuttX, a small footprint real-time operating system (RTOS), which provides a POSIX-style environment. The PX4 middleware runs on top of the operating system and provides device drivers and a micro object request broker (uORB) for asynchronous communication. Our HippoCampus control stack is a custom, BSD licensed underwater vehicle control stack, providing remote controlled and fully autonomous operations for our underwater vehicle hardware.
+
+Our GitHub repository 
+
+The vehicle is easy to assemble and is made of off-the-shelf components, 3D printed parts and printed circuit boards. The quad-rotor layout makes the vehicle extremely agile and suitable for hydrobatic maneuvers. 
