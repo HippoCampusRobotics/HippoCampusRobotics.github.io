@@ -5,7 +5,7 @@ layout: splash
 excerpt: "About HippoC"
 sitemap: false
 feature_row:
-  - image_path: unsplash-gallery-image-1-th.jpg
+  - image_path: https://www.tuhh.de/t3resources/mum/_processed_/csm_AUV_render_iso_copped_5ee548648b.png
     title: "Max Mustermann"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."   
   - image_path: unsplash-gallery-image-2-th.jpg
