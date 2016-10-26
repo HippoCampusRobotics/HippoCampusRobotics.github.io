@@ -13,7 +13,7 @@ feature_row:
     excerpt: "Current version of HippoCampus." 
 ---
 <style type="text/css">
-  p {margin-left: 150px;
+  p {margin-left: 150px;}
 </style>
 
 <h1>Motivation</h1>
