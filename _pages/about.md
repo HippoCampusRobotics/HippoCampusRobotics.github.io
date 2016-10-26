@@ -6,14 +6,14 @@ excerpt: "About HippoC"
 sitemap: false
 feature_row:
   - image_path: https://www.tuhh.de/t3resources/mum/_processed_/csm_2014-12-05_10.28.15_nocable_small_34d2a69318.jpg
-    title: "Max Mustermann"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."   
+    title: ""
+    excerpt: "Working early prototype of HippoCampus."   
   - image_path: AUV_CAD.jpg
-    title: "Max Mustermann"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    title: ""
+    excerpt: "Next generation conceptual CAD rendering of HippoCampus."
   - image_path: AUV.JPG
-    title: "Max Mustermann"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    title: ""
+    excerpt: "Current version of HippoCampus."
 ---
 <h1>Motivation</h1>
 The world's oceans have been a crucial part for life on earth in the past and present, but will also determine our future. They include the least explored areas on earth due to the high cost and the risks involved in offshore and deep-sea activities. Recent technological advances in underwater robotics promise to open up groundbreaking possibilities in offshore areas, such as oceanographic research, offshore wind and deep sea mining. Autonomous underwater vehicles (AUVs) are becoming increasingly important and will play a prominent role in the future. Today mostly single, highly specialized and very expensive vehicles are deployed. They usually have a low degree of autonomy and need a large vessel to be deployed. In order to optimize the use of these scarce resources, the next generation of autonomous underwater vehicles has to be able to evaluate mission performance and coordinate itself with other vehicles working on the same or similar task.
