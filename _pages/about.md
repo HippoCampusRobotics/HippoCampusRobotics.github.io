@@ -11,7 +11,7 @@ feature_row:
   - image_path: AUV_CAD.jpg
     title: "Max Mustermann"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
-  - image_path: AUV.jpg
+  - image_path: AUV.JPG
     title: "Max Mustermann"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
 ---
