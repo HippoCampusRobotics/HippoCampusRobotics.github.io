@@ -12,7 +12,6 @@ feature_row:
     title: ""
     excerpt: "Next generation conceptual CAD rendering of HippoCampus."
   - image_path: AUV.JPG
-    title: ""
     excerpt: "Current version of HippoCampus."
 ---
 <h1>Motivation</h1>
