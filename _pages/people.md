@@ -41,7 +41,7 @@ feature_row:
 </style>
 <div style="margin-left:10%; margin-right:10%; text-align: justify">
   <div class="left">
-       <p> links</p>
+       <p> links <br> <img id="rechts" src="images/placeholder-male.jpg"></p>
   </div>
   <div class="right">
        <p> rechts</p>
