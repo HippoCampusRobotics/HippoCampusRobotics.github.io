@@ -40,7 +40,7 @@ body{
 <h2>Team</h2>
 {: .text-center}
 <div style="margin-left:10%; margin-right:10%; text-align: justify">
-<div class="box1"><img src="https://johtobi.github.io/images/placeholder-male.jpg"><br>Max Mustermann</div>
+<div class="box1"><img src="https://johtobi.github.io/images/placeholder-male.jpg"><br><p style="font-size:70%">Max Mustermann</p></div>
 <div class="box2"><img src="https://johtobi.github.io/images/placeholder-male.jpg"><br>Max Mustermann</div>
 <div class="box3"><img src="https://johtobi.github.io/images/placeholder-male.jpg"><br>Max Mustermann</div>
 </div>
