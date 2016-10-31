@@ -46,15 +46,12 @@ feature_row:
       margin-left: auto;
       margin-right: auto
       }
-     
-     .picturename{
-      font-size:30%;
-     }
-      
+    
+
 </style>
 <div style="margin-left:10%; margin-right:10%; text-align: justify">
   <div class="left">
-       <p class="picturename"><img class="profil" src="https://johtobi.github.io/images/placeholder-male.jpg">Max Mustermann</p>
+       <p><img class="profil" src="https://johtobi.github.io/images/placeholder-male.jpg">Max Muster</p>
   </div>
   <div class="right">
        <p> rechts</p>
