@@ -52,7 +52,7 @@ feature_row:
     <p style="margin-left:10%; margin-right:10%"><img class="profil" src="https://johtobi.github.io/images/placeholder-male.jpg">Max Muster</p>
   </div>
   <div class="right">
-    <p style="margin-left:10%; margin-right:10%"><img class="profil" src="https://johtobi.github.io/images/placeholder-male.jpg">Max Mustermann</p>
+    <p style="margin-left:10%; margin-right:10%"><img class="profil" src="https://johtobi.github.io/images/placeholder-male.jpg">Max Muster</p>
   </div>
   <div class="middle">
     <p style="margin-left:10%; margin-right:10%"><img class="profil" src="https://johtobi.github.io/images/placeholder-male.jpg">Max Mustermann</p>
