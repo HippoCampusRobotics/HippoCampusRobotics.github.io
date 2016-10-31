@@ -21,33 +21,34 @@ feature_row:
  body {
         min-width:1000px;
     }
-    #left {
+    .left {
         float:left;
         width:200px;
         height:500px;
         background-color:yellow;
     }
-    #right {
+    .right {
         float:right;
         width:200px;
         height:500px;
         background-color:yellow;
     }
-    #middle {
+    .middle {
         background-color:blue;
         min-width:600px;
         height:500px;
     }
 </style>
+
   <div class="left">
        <p> links</p>
-    </div>
-    <div class="right">
+  </div>
+  <div class="right">
        <p> rechts</p>
-    </div>
-    <div class="middle">
+  </div>
+  <div class="middle">
        <p>mitte</p>
-    </div>
+  </div>
 
 
 <h2>Team</h2>
