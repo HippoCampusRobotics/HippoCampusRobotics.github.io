@@ -19,7 +19,10 @@ feature_row:
 
 <style>
 body{
+  margin: 0;
+  padding: 0;
 }
+
  .box1, .box2 .box3 {
      float: left;
      width: 32%;
