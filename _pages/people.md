@@ -49,7 +49,7 @@ feature_row:
 </style>
 <div style="margin-left:10%; margin-right:10%; text-align: justify">
   <div class="left">
-       <p> links <br> <img class="profil" src="https://johtobi.github.io/images/placeholder-male.jpg"></p>
+       <p><img class="profil" src="https://johtobi.github.io/images/placeholder-male.jpg"><br>Max Mustermann</p>
   </div>
   <div class="right">
        <p> rechts</p>
