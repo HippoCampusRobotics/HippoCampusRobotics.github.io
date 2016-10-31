@@ -23,19 +23,19 @@ feature_row:
     }
     .left {
         float:left;
-        width:200px;
+        width: 33.33%;
         height:500px;
         background-color:yellow;
     }
     .right {
         float:right;
-        width:200px;
+        width:33.33%;
         height:500px;
         background-color:yellow;
     }
     .middle {
         background-color:blue;
-        min-width:600px;
+        min-width:33.33%;
         height:500px;
     }
 </style>
