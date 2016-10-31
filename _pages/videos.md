@@ -15,7 +15,7 @@ sitemap: false
     margin: 0 auto;
   }
   .header {
-    height: 20px;
+    height: 10px;
     background-color: white;
 }
 .contentwrap {
