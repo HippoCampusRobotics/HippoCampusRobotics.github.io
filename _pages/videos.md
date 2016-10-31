@@ -83,7 +83,7 @@ hr {
     <nav class="navArea"><ul>HippoCampus Micro AUV</ul><ul> Video by</ul></nav>
       <article class="contentArea">
       <div class="video-container">
-      <iframe width="560" height="315" src="https://www.youtube.com/embed/PrH_exw1WXw" frameborder="0" allowfullscreen></iframe>
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/1y6KvrMqoo0" frameborder="0" allowfullscreen></iframe>
     </div>
       </article>
     </section>
@@ -93,7 +93,7 @@ hr {
 <br><br><br>
 
 <div class="wrapper">
-  <header class="header"><hr></header>
+ <!-- <header class="header"><hr></header> -->
     <section class="contentwrap">
       <nav class="navArea">HippoCampus Micro AUV Video by</nav>
       <article class="contentArea">
