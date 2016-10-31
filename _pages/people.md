@@ -19,8 +19,7 @@ feature_row:
 
 <style>
  body {
-        margin-left:10%;
-        margin-right:10%;
+        min-width:1000px;
     }
     .left {
         float:left;
