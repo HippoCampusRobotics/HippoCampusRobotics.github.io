@@ -39,7 +39,7 @@ feature_row:
         height:500px;
     }
 </style>
-
+<div style="margin-left:10%; margin-right:10%; text-align: justify">
   <div class="left">
        <p> links</p>
   </div>
@@ -49,7 +49,7 @@ feature_row:
   <div class="middle">
        <p>mitte</p>
   </div>
-
+</div>
 
 <h2>Team</h2>
 {: .text-center}
