@@ -19,7 +19,6 @@ feature_row:
 
 <style>
 body{
-  width: 80%;
   margin: 0;
   padding: 0;
 }
@@ -39,9 +38,11 @@ body{
 
 </style>
 
+<div style="margin-left:10%; margin-right:10%; text-align: justify">
 <div class="box1">Blablablub</div>
 <div class="box2">Blublubla</div>
 <div class="box3">Blablubla</div>
+</div>
 
 <br><br>
 
