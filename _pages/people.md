@@ -19,24 +19,24 @@ feature_row:
 
 <style>
  body {
-        min-width:1000px;
+        width:80%;
     }
     .left {
         float:left;
         width: 33.33%;
-        height:500px;
+        height:auto;
         background-color:yellow;
     }
     .right {
         float:right;
         width:33.33%;
-        height:500px;
+        height:auto;
         background-color:yellow;
     }
     .middle {
         background-color:blue;
         min-width:33.33%;
-        height:500px;
+        height:auto;
     }
     
     .profil { 
