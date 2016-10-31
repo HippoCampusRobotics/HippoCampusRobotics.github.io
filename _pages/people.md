@@ -40,15 +40,9 @@ body{
 <h2>Team</h2>
 {: .text-center}
 <div style="margin-left:10%; margin-right:10%; text-align: justify">
-<div class="box1"><img src="https://johtobi.github.io/images/placeholder-male.jpg"></div>
-<div class="box2"><img src="https://johtobi.github.io/images/placeholder-male.jpg"></div>
+<div class="box1"><img src="https://johtobi.github.io/images/placeholder-male.jpg"><br>Max Mustermann</div>
+<div class="box2"><img src="https://johtobi.github.io/images/placeholder-male.jpg">Max Muster</div>
 <div class="box3"><img src="https://johtobi.github.io/images/placeholder-male.jpg"></div>
 </div>
 
-<br><br>
 
-<h2>Team</h2>
-{: .text-center}
-
-<div style="width:80%;margin:auto;">{% include feature_row %}</div>
-<div style="width:80%;margin:auto;">{% include feature_row id="row2" %}</div>
