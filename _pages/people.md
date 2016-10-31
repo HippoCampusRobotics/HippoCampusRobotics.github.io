@@ -20,7 +20,7 @@ feature_row:
 <style>
  body {
         min-width:1000px;
-        font-size: 50%;
+        font-size: 70%;
     }
     .left {
         float:left;
@@ -47,10 +47,14 @@ feature_row:
       margin-left: auto;
       margin-right: auto
       }
+      
+      .picturename{
+        width: 80%;
+      }
 </style>
 <div style="margin-left:10%; margin-right:10%; text-align: justify">
   <div class="left">
-       <p><img class="profil" src="https://johtobi.github.io/images/placeholder-male.jpg"><br>Max Mustermann</p>
+       <img class="profil" src="https://johtobi.github.io/images/placeholder-male.jpg"><br><div class="picturename">Max Mustermann</div>
   </div>
   <div class="right">
        <p> rechts</p>
