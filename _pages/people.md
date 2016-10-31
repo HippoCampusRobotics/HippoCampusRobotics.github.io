@@ -19,7 +19,8 @@ feature_row:
 
 <style>
  body {
-        width:80%;
+        margin-left:10%;
+        margin-right:10%;
     }
     .left {
         float:left;
