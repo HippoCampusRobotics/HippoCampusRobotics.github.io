@@ -20,6 +20,7 @@ feature_row:
 <style>
  body {
         min-width:1000px;
+        font-size: 50%;
     }
     .left {
         float:left;
