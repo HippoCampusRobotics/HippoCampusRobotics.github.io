@@ -6,23 +6,23 @@ excerpt: "People"
 sitemap: false
 feature_row:
   - image_path: placeholder-male.jpg
-    title: "Max Mustermann"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."   
+    title: "Eugen Solowjow"
+   /* excerpt: "This is some sample content that goes here with **Markdown** formatting."   */
+  - image_path: placeholder-male.jpg
+    title: "Daniel Düker"
+   /* excerpt: "This is some sample content that goes here with **Markdown** formatting." */
+  - image_path: placeholder-male.jpg
+    title: "Viktor Rausch"
+   /* excerpt: "This is some sample content that goes here with **Markdown** formatting." */
+  - image_path: placeholder-male.jpg
+    title: "Rene Geist"
+   /* excerpt: "This is some sample content that goes here with **Markdown** formatting." */
   - image_path: placeholder-male.jpg
     title: "Max Mustermann"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+   /*  excerpt: "This is some sample content that goes here with **Markdown** formatting." */
   - image_path: placeholder-male.jpg
     title: "Max Mustermann"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
-  - image_path: placeholder-male.jpg
-    title: "Max Mustermann"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
-  - image_path: placeholder-male.jpg
-    title: "Max Mustermann"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
-  - image_path: placeholder-male.jpg
-    title: "Max Mustermann"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+  /*  excerpt: "This is some sample content that goes here with **Markdown** formatting." */
 ---
 
 <h2>Team</h2>
