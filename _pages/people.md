@@ -40,7 +40,11 @@ feature_row:
     }
     
     .profil { 
-      width: 80%; height: auto 
+      width: 80%; 
+      height: auto; 
+      display: block;
+      margin-left: auto;
+      margin-right: auto
       }
 </style>
 <div style="margin-left:10%; margin-right:10%; text-align: justify">
