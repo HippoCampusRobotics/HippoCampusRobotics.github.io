@@ -15,7 +15,7 @@ sitemap: false
     margin: 0 auto;
   }
   .header {
-    height: 20px;
+    height: 60px;
     background-color: white;
 }
 .contentwrap {
@@ -93,10 +93,24 @@ hr {
 <div class="wrapper">
   <header class="header"><hr></header>
     <section class="contentwrap">
-      <nav class="navArea">Featured by IEEE Spectrum as one of the highlighted IROS15 videos: </nav>
+      <nav class="navArea">Featured by IEEE Spectrum as one of the highlighted IROS15 videos</nav>
       <article class="contentArea">
       <div class="video-container">
       <iframe width="560" height="315" src="https://www.youtube.com/embed/9-VLE_Jn3u4" frameborder="0" allowfullscreen></iframe>
+    </div>
+      </article>
+    </section>
+  <!--  <div class="footer"><p style="font-size: 0.5px;"><br></p><hr></div> -->
+</div>
+
+<br>
+<div class="wrapper">
+  <header class="header"><hr></header>
+    <section class="contentwrap">
+      <nav class="navArea">ICRA16 contribution on acoustic localization for µAUVs</nav>
+      <article class="contentArea">
+      <div class="video-container">
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/5GqnwYsQp0M" frameborder="0" allowfullscreen></iframe>
     </div>
       </article>
     </section>
