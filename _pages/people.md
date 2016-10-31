@@ -40,7 +40,7 @@ body{
 <div class="box">Blublubla</div>
 <div class="box">Blablubla</div>
 
-
+<br><br>
 
 <h2>Team</h2>
 {: .text-center}
