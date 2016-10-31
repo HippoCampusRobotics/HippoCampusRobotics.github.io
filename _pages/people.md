@@ -38,10 +38,14 @@ feature_row:
         min-width:33.33%;
         height:500px;
     }
+    
+    .profil { 
+      width: 80%; height: auto 
+      }
 </style>
 <div style="margin-left:10%; margin-right:10%; text-align: justify">
   <div class="left">
-       <p> links <br> <img id="rechts" src="https://johtobi.github.io/images/placeholder-male.jpg"  width="350px"></p>
+       <p> links <br> <img class="profil" src="https://johtobi.github.io/images/placeholder-male.jpg"></p>
   </div>
   <div class="right">
        <p> rechts</p>
