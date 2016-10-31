@@ -28,7 +28,7 @@ body{
      width: 32%;
      margin-right: 2%;
      padding: 20px;
-     background: #eee;
+     background: #FFFFFF;
      box-sizing: border-box;
 }
 
@@ -41,7 +41,13 @@ body{
 {: .text-center}
 <div style="margin-left:10%; margin-right:10%; text-align: justify">
 <div class="box1"><img src="https://johtobi.github.io/images/placeholder-male.jpg"><br>Max Mustermann</div>
-<div class="box2"><img src="https://johtobi.github.io/images/placeholder-male.jpg"><br>Max Muster</div>
+<div class="box2"><img src="https://johtobi.github.io/images/placeholder-male.jpg"><br>Max Mustermann</div>
+<div class="box3"><img src="https://johtobi.github.io/images/placeholder-male.jpg"><br>Max Mustermann</div>
+</div>
+<br>
+<div style="margin-left:10%; margin-right:10%; text-align: justify">
+<div class="box1"><img src="https://johtobi.github.io/images/placeholder-male.jpg"><br>Max Mustermann</div>
+<div class="box2"><img src="https://johtobi.github.io/images/placeholder-male.jpg"><br>Max Mustermann</div>
 <div class="box3"><img src="https://johtobi.github.io/images/placeholder-male.jpg"><br>Max Mustermann</div>
 </div>
 
