@@ -78,7 +78,7 @@ hr {
 <p align="center">We invite researchers to collaborate using the HippoC platform. Check out the project videos below.</p>
 <p line-height="3em"> </p>
 <div class="wrapper">
-  <header class="header"><hr></header>
+  <header class="header"><hr><br></header>
     <section class="contentwrap">
     <nav class="navArea"><ul>HippoCampus Micro AUV</ul><ul> Video by</ul></nav>
       <article class="contentArea">
