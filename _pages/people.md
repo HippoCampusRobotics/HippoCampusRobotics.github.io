@@ -22,12 +22,16 @@ body{
 }
  
 .box {
-     float: left;
-     width: 30%;
-     margin-right: 3.33333%;
-     padding: 20px;
-     background: #eee;
-     box-sizing: border-box;
+ float: left;
+ width: 32%;
+ margin-right: 2%;
+ padding: 20px;
+ background: #eee;
+ box-sizing: border-box;
+}
+
+.box:last-child {
+     margin-right: 0;
 }
    
 </style>
