@@ -20,25 +20,24 @@ feature_row:
 <style>
 body{
 }
- 
-.box {
- float: left;
- width: 32%;
- margin-right: 2%;
- padding: 20px;
- background: #eee;
- box-sizing: border-box;
+ .box1, .box2 .box3 {
+     float: left;
+     width: 32%;
+     margin-right: 2%;
+     padding: 20px;
+     background: #eee;
+     box-sizing: border-box;
 }
 
-.box:last-child {
+.box3 {
      margin-right: 0;
 }
-   
+
 </style>
 
-<div class="box">Blablablub</div>
-<div class="box">Blublubla</div>
-<div class="box">Blablubla</div>
+<div class="box1">Blablablub</div>
+<div class="box2">Blublubla</div>
+<div class="box3">Blablubla</div>
 
 <br><br>
 
