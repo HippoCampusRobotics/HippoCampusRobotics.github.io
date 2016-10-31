@@ -4,17 +4,6 @@ permalink: /pages/people/
 layout: splash
 excerpt: "People"
 sitemap: false
-feature_row:
-  - image_path: placeholder-male.jpg
-    title: "Eugen Solowjow"
-  - image_path: placeholder-male.jpg
-    title: "Daniel Düker"
-  - image_path: placeholder-male.jpg
-    title: "Viktor Rausch"
-  - image_path: placeholder-male.jpg
-    title: "René Geist"
-  - image_path: placeholder-male.jpg
-    title: "Tobias Johannink"
 ---
 
 <style>
@@ -39,16 +28,16 @@ body{
 
 <h2>Team</h2>
 {: .text-center}
+
 <div style="margin-left:10%; margin-right:10%; text-align: justify">
 <div class="box1"><img src="https://johtobi.github.io/images/placeholder-male.jpg"><br>Max Mustermann</div>
 <div class="box2"><img src="https://johtobi.github.io/images/placeholder-male.jpg"><br>Max Mustermann</div>
 <div class="box3"><img src="https://johtobi.github.io/images/placeholder-male.jpg"><br>Max Mustermann</div>
 </div>
 <br>
+
 <div style="margin-left:10%; margin-right:10%; text-align: justify">
 <div class="box1"><img src="https://johtobi.github.io/images/placeholder-male.jpg"><br>Max Mustermann</div>
 <div class="box2"><img src="https://johtobi.github.io/images/placeholder-male.jpg"><br>Max Mustermann</div>
 <div class="box3"><img src="https://johtobi.github.io/images/placeholder-male.jpg"><br>Max Mustermann</div>
 </div>
-
-
