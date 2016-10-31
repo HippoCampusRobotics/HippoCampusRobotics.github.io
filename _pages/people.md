@@ -39,13 +39,13 @@ feature_row:
         height:500px;
     }
 </style>
-  <div id=left>
+  <div class="left">
        <p> links</p>
     </div>
-    <div id=right>
+    <div class="right">
        <p> rechts</p>
     </div>
-    <div id=middle>
+    <div class="middle">
        <p>mitte</p>
     </div>
 
