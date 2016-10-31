@@ -19,6 +19,7 @@ feature_row:
 
 <style>
 body{
+  width: 80%;
   margin: 0;
   padding: 0;
 }
