@@ -12,7 +12,7 @@ feature_row:
   - image_path: placeholder-male.jpg
     title: "Viktor Rausch"
   - image_path: placeholder-male.jpg
-    title: "Rene Geist"
+    title: "René Geist"
   - image_path: placeholder-male.jpg
     title: "Tobias Johannink"
 ---
