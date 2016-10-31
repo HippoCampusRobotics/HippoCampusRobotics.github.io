@@ -15,7 +15,7 @@ sitemap: false
     margin: 0 auto;
   }
   .header {
-    height: 60px;
+    height: 20px;
     background-color: white;
 }
 .contentwrap {
@@ -87,11 +87,11 @@ hr {
     </div>
       </article>
     </section>
-    <div class="footer"><p style="font-size: 0.5px;"><br></p><hr></div>
+   <!-- <div class="footer"><p style="font-size: 0.5px;"><br></p><hr></div> -->
 </div>
 <br>
 <div class="wrapper">
- <!-- <header class="header"><hr></header> -->
+  <header class="header"><hr></header>
     <section class="contentwrap">
       <nav class="navArea">Featured by IEEE Spectrum as one of the highlighted IROS15 videos: </nav>
       <article class="contentArea">
@@ -100,12 +100,12 @@ hr {
     </div>
       </article>
     </section>
-    <div class="footer"><p style="font-size: 0.5px;"><br></p><hr></div>
+  <!--  <div class="footer"><p style="font-size: 0.5px;"><br></p><hr></div> -->
 </div>
 
 <br>
 <div class="wrapper">
- <!-- <header class="header"><hr></header> -->
+ <header class="header"><hr></header> 
     <section class="contentwrap">
       <nav class="navArea">HippoCampus Micro AUV Video by</nav>
       <article class="contentArea">
@@ -114,5 +114,10 @@ hr {
     </div>
       </article>
     </section>
-    <div class="footer"><p style="font-size: 0.5px;"><br></p><hr></div>
+    <!-- <div class="footer"><p style="font-size: 0.5px;"><br></p><hr></div> -->
+</div>
+
+<br>
+<div class="wrapper">
+ <header class="header"><hr></header> 
 </div>
