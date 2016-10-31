@@ -35,7 +35,7 @@ feature_row:
     }
     .middle {
         background-color:blue;
-        min-width:33.33%;
+        width:33.33%;
         height:auto;
     }
     
