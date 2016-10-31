@@ -18,29 +18,36 @@ feature_row:
 ---
 
 <style>
-  #links{
-    float: left; 
-    color: #A52A2A;
+ body {
+        min-width:1000px;
     }
-    
-  #rechts{ 
-    float: right; 
-    color: #1E90FF;
+    #left {
+        float:left;
+        width:200px;
+        height:500px;
+        background-color:yellow;
     }
-    
-  #links, #rechts{
-    width: 200px; 
+    #right {
+        float:right;
+        width:200px;
+        height:500px;
+        background-color:yellow;
     }
-    
-  #mitte{ 
-    margin: 0 200px; 
-    color: #228B22;
+    #middle {
+        background-color:blue;
+        min-width:600px;
+        height:500px;
     }
 </style>
-
-<div class="links">linker Bereich</div>
-<div class="rechts">rechter Bereich</div>
-<div class="mitte">die Mitte</div>
+  <div id=left>
+       <p> links</p>
+    </div>
+    <div id=right>
+       <p> rechts</p>
+    </div>
+    <div id=middle>
+       <p>mitte</p>
+    </div>
 
 
 <h2>Team</h2>
