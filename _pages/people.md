@@ -50,13 +50,13 @@ feature_row:
 </style>
 <div style="margin-left:10%; margin-right:10%; text-align: justify">
   <div class="left">
-    <p style="margin-left:10%; margin-right:10%"><img class="profil" src="https://johtobi.github.io/images/placeholder-male.jpg">Max Mustermann</p>
+    <p style="margin-left:10%; margin-right:10%"><img class="profil" src="https://johtobi.github.io/images/placeholder-male.jpg">Max Muster</p>
   </div>
   <div class="right">
     <p style="margin-left:10%; margin-right:10%"><img class="profil" src="https://johtobi.github.io/images/placeholder-male.jpg">Max Mustermann</p>
   </div>
   <div class="middle">
-       <p>mitte</p>
+    <p style="margin-left:10%; margin-right:10%"><img class="profil" src="https://johtobi.github.io/images/placeholder-male.jpg">Max Mustermann</p>
   </div>
 </div>
 
