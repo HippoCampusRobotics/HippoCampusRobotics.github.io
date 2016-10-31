@@ -30,14 +30,13 @@ body{
 {: .text-center}
 
 <div style="margin-left:10%; margin-right:10%; text-align: justify">
-<div class="box1"><img src="https://johtobi.github.io/images/placeholder-male.jpg"><br>Eugen Solowjow</div>
-<div class="box2"><img src="https://johtobi.github.io/images/placeholder-male.jpg"><br>Daniel Dücker</div>
-<div class="box3"><img src="https://johtobi.github.io/images/placeholder-male.jpg"><br>Viktor Rausch</div>
+  <div class="box1"><img src="https://johtobi.github.io/images/placeholder-male.jpg"><br><p style="font-size:80%">Eugen Solowjow</p></div>
+  <div class="box2"><img src="https://johtobi.github.io/images/placeholder-male.jpg"><br><p style="font-size:80%">Daniel Dücker</p></div>
+  <div class="box3"><img src="https://johtobi.github.io/images/placeholder-male.jpg"><br><p style="font-size:80%">Viktor Rausch</p></div>
 </div>
 <br>
-
 <div style="margin-left:10%; margin-right:10%; text-align: justify">
-<div class="box1"><img src="https://johtobi.github.io/images/placeholder-male.jpg"><br>René Geist</div>
-<div class="box2"><img src="https://johtobi.github.io/images/placeholder-male.jpg"><br><p style="font-size:70%">Tobias Johannink</p></div>
-<!-- <div class="box3"><img src="https://johtobi.github.io/images/placeholder-male.jpg"><br>Max Mustermann</div> -->
+  <div class="box1"><img src="https://johtobi.github.io/images/placeholder-male.jpg"><br><p style="font-size:80%">René Geist</p></div>
+  <div class="box2"><img src="https://johtobi.github.io/images/placeholder-male.jpg"><br><p style="font-size:80%">Tobias Johannink</p></div>
+  <!-- <div class="box3"><img src="https://johtobi.github.io/images/placeholder-male.jpg"><br><p style="font-size:80%">Max Mustermann</p></div> -->
 </div>
