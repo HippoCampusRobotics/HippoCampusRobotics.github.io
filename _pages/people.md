@@ -23,7 +23,7 @@ body{
   padding: 0;
 }
 
- .box1, .box2 .box3 {
+ .box1, .box2, .box3 {
      float: left;
      width: 32%;
      margin-right: 2%;
