@@ -18,21 +18,21 @@ feature_row:
 ---
 
 <style>
-  links{
+  #links{
     float: left; 
     color: #A52A2A;
     }
     
-rechts{ 
+  #rechts{ 
     float: right; 
     color: #1E90FF;
     }
     
-links, rechts{
+  #links, #rechts{
     width: 200px; 
     }
     
-mitte{ 
+  #mitte{ 
     margin: 0 200px; 
     color: #228B22;
     }
