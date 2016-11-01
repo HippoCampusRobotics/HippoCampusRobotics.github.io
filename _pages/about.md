@@ -52,7 +52,7 @@ feature_row:
   The PX4 middleware runs on top of the operating system and provides device drivers and a <a href="https://en.wikipedia.org/wiki/Object_request_broker" target="_blank">micro object request broker (uORB)</a> for asynchronous communication. 
   Our HippoCampus control stack is a custom, BSD licensed underwater vehicle control stack, providing remote controlled and fully autonomous operations for our underwater vehicle hardware.
 </div>
-
+<br>
   <a href="https://github.com/EugenSol/FirmwareBeta" class="btn btn--warning" target="_blank">Our GitHub repository</a>
 {: .text-center}
 
