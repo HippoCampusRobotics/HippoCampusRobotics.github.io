@@ -10,6 +10,8 @@ header:
 <h1>HippoCampus - Autonomous Underwater Exploration</h1>
 {: .text-center}
 
-Hier steht ein Testtext
+<div style="margin-left:10%; margin-right:10%; text-align: justify">
+  The HippoCampus is an autonomous underwater vehicle for underwater exploration. Due to the small frame size HippoCampus can be used in industrial container to measure environmental factors, e.g. ph-value. 
+</div>
 
 
