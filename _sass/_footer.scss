@@ -19,7 +19,7 @@
   -webkit-animation-delay: 0.45s;
           animation-delay: 0.45s;
   background-color: #FFFFFF;/* $lighter-gray; */
-  border-top: 1px solid #FFFFFF/* $light-gray; */
+  /*border-top: 1px solid $light-gray;*/
 
   footer {
     @include container;
