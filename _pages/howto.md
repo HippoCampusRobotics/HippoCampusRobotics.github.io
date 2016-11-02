@@ -15,7 +15,7 @@ sitemap: false
   <thead>
     <tr>
       <th>Description</th>
-      <th>&#160;</th>
+      <th>&#100;</th>
     </tr>
   </thead>
   <tbody>
@@ -25,7 +25,7 @@ sitemap: false
     </tr>
     <tr>
       <td>Assemble the AUV</td>
-      <td><a href="https://github.com/EugenSol/FirmwareBeta" class="btn btn--warning" target="_blank">Assembly Instruction</a></td>
+      <td><p style="text-align: center"><a href="https://github.com/EugenSol/FirmwareBeta" class="btn btn--warning" target="_blank">Assembly Instruction</a></p></td>
     </tr>
   </tbody>
 </table>
