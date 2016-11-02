@@ -27,8 +27,7 @@ sitemap: false
   <tbody>
     <tr>
       <td>1. Get the parts</td>
-      <td><p><a href="https://github.com/EugenSol/FirmwareBeta" class="btn btn--warning" target="_blank">Bill of Materials</a></p></td>
-     {: .text-center}
+      <td><div style="vertical-align: middle; text-align: center;"><a href="https://github.com/EugenSol/FirmwareBeta" class="btn btn--warning" target="_blank">Bill of Materials</a></div></td>
     </tr>
     <tr>
       <td>2. Assemble the AUV</td>
