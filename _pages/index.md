@@ -11,7 +11,7 @@ header:
 {: .text-center}
 
 <div style="margin-left:10%; margin-right:10%; text-align: center">
-  The HippoCampus is an autonomous underwater vehicle for underwater exploration. Due to the small frame size HippoCampus can be used in industrial container to measure environmental factors, e.g. ph-value. 
+  HippoCampus is a micro autonomous underwater vehicle that is partially manufactured with a 3D printer. HippoCampus is a development platform for underwater exploration. Due to the small frame size HippoCampus can be used in waters as well as in industrial container to measure environmental factors, e.g. ph-value. 
 </div>
 
 
