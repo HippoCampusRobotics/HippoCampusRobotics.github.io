@@ -21,12 +21,11 @@ sitemap: false
   <tbody>
     <tr>
       <td>Get the parts</td>
-      <td>  <a href="https://github.com/EugenSol/FirmwareBeta" class="btn btn--warning" target="_blank">Bill of Materials</a></td>
+      <td><a href="https://github.com/EugenSol/FirmwareBeta" class="btn btn--warning" target="_blank">Bill of Materials</a></td>
     </tr>
     <tr>
-      <td>All posts grouped by tags</td>
-      <td><a href="https://github.com/mmistakes/minimal-mistakes/blob/gh-pages/_pages/tag-archive.html">Source</a></td>
-      <td><a href="https://mmistakes.github.io/minimal-mistakes/tags/">Demo</a></td>
+      <td>Assemble the AUV</td>
+      <td><a href="https://github.com/EugenSol/FirmwareBeta" class="btn btn--warning" target="_blank">Assembly Instruction</a></td>
     </tr>
   </tbody>
 </table>
