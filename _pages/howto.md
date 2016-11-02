@@ -20,7 +20,7 @@ sitemap: false
   </thead>
   <tbody>
     <tr>
-      <td>1. Get the parts</td>
+      <td style="height: 50px;">1. Get the parts</td>
       <td><p style="text-align: center;"><a href="https://github.com/EugenSol/FirmwareBeta" class="btn btn--warning" target="_blank">Bill of Materials</a></p></td>
     </tr>
     <tr>
