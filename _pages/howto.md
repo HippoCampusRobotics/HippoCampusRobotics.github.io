@@ -21,7 +21,7 @@ sitemap: false
   <tbody>
     <tr>
       <td>Get the parts</td>
-      <td><a href="https://github.com/EugenSol/FirmwareBeta" class="btn btn--warning" target="_blank">Bill of Materials</a></td>
+      <td><p style="text-align: center; vertical-align: middle;"><a href="https://github.com/EugenSol/FirmwareBeta" class="btn btn--warning" target="_blank">Bill of Materials</a></p></td>
     </tr>
     <tr>
       <td>Assemble the AUV</td>
