@@ -20,11 +20,11 @@ sitemap: false
   </thead>
   <tbody>
     <tr>
-      <td>Get the parts</td>
+      <td>1. Get the parts</td>
       <td><p style="text-align: center; vertical-align: middle;"><a href="https://github.com/EugenSol/FirmwareBeta" class="btn btn--warning" target="_blank">Bill of Materials</a></p></td>
     </tr>
     <tr>
-      <td>Assemble the AUV</td>
+      <td>2. Assemble the AUV</td>
       <td><p style="text-align: center; position: absolute; top: 50%;"><a href="https://github.com/EugenSol/FirmwareBeta" class="btn btn--warning" target="_blank">Assembly Instruction</a></p></td>
     </tr>
   </tbody>
