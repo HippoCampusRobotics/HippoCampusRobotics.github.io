@@ -7,7 +7,7 @@ sitemap: false
 ---
 <style>
  td {
-    vertical-align: bottom;
+    vertical-align: middle;
 }
 </style>
 
