@@ -16,14 +16,12 @@ sitemap: false
     <tr>
       <th>Description</th>
       <th>&#160;</th>
-      <th>&#160;</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td>All posts grouped by category</td>
-      <td><a href="https://github.com/mmistakes/minimal-mistakes/blob/gh-pages/_pages/category-archive.html">Source</a></td>
-      <td><a href="https://mmistakes.github.io/minimal-mistakes/categories/">Demo</a></td>
+      <td>Get the parts</td>
+      <td>  <a href="https://github.com/EugenSol/FirmwareBeta" class="btn btn--warning" target="_blank">Bill of Materials</a></td>
     </tr>
     <tr>
       <td>All posts grouped by tags</td>
