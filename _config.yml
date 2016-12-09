@@ -10,10 +10,10 @@ locale                   : "en"
 title                    : "HippoCampus"
 title_separator          : "-"
 name                     : "MUM"
-description              : "Autonomous Underwater Exploration"
-url                      : "https://johtobi.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : "Micro Autonomous Uderwater Robotics"
+url                      : "https://EugenSol.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "JohTobi/johtobi.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "EugenSol/EugenSol.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : # true, false (default)
 words_per_minute         : 200
@@ -82,7 +82,7 @@ author:
   bio              : "Autonomous Underwater Exploration"
   location         : "Somewhere"
   email            :
-  uri              : "http://johtobi.github.io"
+  uri              : "http://EugenSol.github.io"
   bitbucket        :
   codepen          :
   dribbble         :
