@@ -30,8 +30,8 @@ sitemap: false
       <td><div style="vertical-align: middle; text-align: center;"><a href="https://github.com/EugenSol/FirmwareBeta" class="btn btn--warning" target="_blank">Bill of Materials</a></div></td>
     </tr>
     <tr>
-      <td>2. Assemble the AUV</td>
-      <td><div style="vertical-align: middle; text-align: center;"><a href="https://github.com/EugenSol/FirmwareBeta" class="btn btn--warning" target="_blank">Assembly Instruction</a></div></td>
+      <td>2. Assemble HippoC</td>
+      <td><div style="vertical-align: middle; text-align: center;"><a href="https://docs.google.com/document/d/11WKaHUoH1xX45gRUPEUhiivS0rM51P3NbSzRF93s31c/edit?usp=sharing" class="btn btn--warning" target="_blank">Assembly Instruction</a></div></td>
     </tr>
   </tbody>
 </table>
