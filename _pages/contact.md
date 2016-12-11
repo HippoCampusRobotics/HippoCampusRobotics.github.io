@@ -10,6 +10,10 @@ sitemap: false
 <h1>Contact</h1>
 </div>
 
-The team consists of a number of graduate and undergraduate students.
-{: .text-center}
+Eugen Solowjow
+Hamburg University of Technology
+Mechanics and Ocean Engineering
+Eißendorfer Straße 42 
+21073 Hamburg, Germany
 
+Email: eugen.solowjow@tuhh.de
