@@ -20,16 +20,9 @@ feature_row:
 The HippoCampus is a micro underwater robot for research applications.
 The quad-rotor layout makes the robot extremely agile and suitable for hydrobatic maneuvers. 
 HippoCampus is built with off-the-shelf components and 3D-printed parts.
-It is developed for research in the area of multi-agent monitoring of spatio-temporal fields.
+It is developed for research in the area of autonomous exploration and monitoring.
 </div>
 <br>
-
-<div style="margin-left:10%; margin-right:10%; text-align: justify">
-  <h1>Gallery</h1>
-</div>
-<br>
-<div style="width:80%;margin:auto;">{% include feature_row %}</div>
-
 
 <div style="margin-left:10%; margin-right:10%; text-align: justify">
   <h1>Vehicle Hardware</h1>
@@ -41,4 +34,10 @@ It is developed for research in the area of multi-agent monitoring of spatio-tem
   Our HippoCampus control stack is a custom, BSD licensed underwater vehicle control stack, providing remote controlled and fully autonomous operations for our underwater vehicle hardware.
 </div>
 <br>
+
+<div style="margin-left:10%; margin-right:10%; text-align: justify">
+  <h1>Gallery</h1>
+</div>
+<br>
+<div style="width:80%;margin:auto;">{% include feature_row %}</div>
 
