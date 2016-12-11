@@ -75,12 +75,12 @@ hr {
 
 </style>
 
-<p align="center">We invite researchers to collaborate using the HippoC platform. Check out the project videos below.</p>
+<p align="center">Videos</p>
 <p line-height="3em"> </p>
 <div class="wrapper">
   <header class="header"><hr><br></header>
     <section class="contentwrap">
-    <nav class="navArea"><ul>The birth of HippoCampus</ul></nav>
+    <nav class="navArea"><ul>Birth of HippoCampus</ul></nav>
       <article class="contentArea">
       <div class="video-container">
       <iframe width="560" height="315" src="https://www.youtube.com/embed/1y6KvrMqoo0" frameborder="0" allowfullscreen></iframe>
@@ -107,7 +107,7 @@ hr {
 <div class="wrapper">
   <header class="header"><hr></header>
     <section class="contentwrap">
-      <nav class="navArea">ICRA16 contribution on acoustic localization for µAUVs</nav>
+      <nav class="navArea">Acoustic localization for µAUVs (ICRA16)</nav>
       <article class="contentArea">
       <div class="video-container">
       <iframe width="560" height="315" src="https://www.youtube.com/embed/5GqnwYsQp0M" frameborder="0" allowfullscreen></iframe>
