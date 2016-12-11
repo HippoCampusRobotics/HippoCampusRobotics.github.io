@@ -7,11 +7,11 @@ sitemap: false
 header:
   image: HippoC_Foto.jpg
 ---
-<h1>HippoCampus - Autonomous Underwater Exploration</h1>
+<h1>HippoCampus - Micro Underwater Robot</h1>
 {: .text-center}
 
 <div style="margin-left:10%; margin-right:10%; text-align: center">
-  HippoCampus is a micro autonomous underwater vehicle that is partially manufactured with a 3D printer. It is a development platform for underwater exploration. Due to the small frame size HippoCampus can be used in waters as well as in industrial container to measure environmental factors, e.g. ph-value. 
+HippoCampus is a micro underwater robotic plattform. It is intended for autonomous environmental exploration and monitoring. Due to its small size HippoCampus can be deployed out-doors (e.g. lakes), but also in industrial tanks. 
 </div>
 
 
