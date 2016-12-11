@@ -25,7 +25,7 @@ It is developed for research in the area of autonomous exploration and monitorin
 <br>
 
 <div style="margin-left:10%; margin-right:10%; text-align: justify">
-  <h1>Vehicle Hardware</h1>
+  <h1>Computing Hardware</h1>
   The current underwater vehicle setup represents a very flexible and robust research platform. 
   We use a <a href="https://pixhawk.org/modules/pixhawk" target="_blank">Pixhawk</a> board with a 168 MHz Cortex M4F CPU (256 
   KB RAM, 2 MB Flash) and onboard sensors (3D ACC / Gyro / MAG / Baro). 
