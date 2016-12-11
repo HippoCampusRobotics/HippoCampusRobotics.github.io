@@ -5,24 +5,23 @@ layout: splash
 excerpt: "Research HippoC"
 sitemap: false
 ---
-<h1>Publications</h1>
-<h2>2014</h2>
+<h1>Research</h1>
+
+The HippoCampus is a platform for a variety of research projects.
+It allows to test hardware, implement controls and estimation algorithms, as well as tackle interesting robotics problems.
 
 
-Hackbarth, Axel and Hedrick, J. Karl and Kreuzer, Edwin and Solowjow, Eugen (2014). A Bayesian Approach to Model-Based Localization of a Diffusive Source. <i>RSS Workshop on Autonomous Control, Adaptation, and Learning for Underwater Vehicles</i> RSS Conference: Berkeley, California. <a href="http://drexelsaslab.appspot.com/workshops/rss2014/index.html" class="btn " target="_blank">www</a> <a href="http://www.tuhh.de/mum/" class="btn btn--warning " target="_blank">BibTex</a>
-{: .notice--info}
+<h1>Current Projects</h1>
 
+Field learning with micro autonomous underwater robots
 
-Hackbarth, Axel and Hedrick, J. Karl and Kreuzer, Edwin and Solowjow, Eugen (2014). A Nonlinear Estimator for Mobile Source Localization Applications. <i>8th European Nonlinear Dynamics Conference</i> Wien. <a href="http://www.tuhh.de/mum/" class="btn " target="_blank">test</a>
-{: .notice--warning}
+Localization of micro underwater robots
 
-Hackbarth, Axel and Kreuzer, Edwin and Schröder, Thorben (2014). CFD in the Loop: Ensemble Kalman Filtering With Underwater Mobile Sensor Networks. <i>Ocean, Offshore and Arctic Engineering, ASME 2014 33rd International Conference on ASME</i>: V002T08A063.
-{: .notice--info}
+The floating Furuta pendulum
 
+High-performance hydrobatics
 
-<h2>2012</h2>
+<h1>Selected Publications</h1>
+A. Hackbarth, E. Kreuzer, and E. Solowjow, “HippoCampus: A micro underwater vehicle for swarm applications,” in IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), Hamburg, Germany, 2015, pp. 2258–2263.
 
-<ul>
-<li>Hackbarth, Axel and Gray, Andrew and Kreuzer, Edwin (2012). Multi-Agent Motion Control of Autonomous Vehicles in 3D Flow Fields. <i>PAMM</i> WILEY-VCH: Darmstadt 733--734.</li>
-<li>Hackbarth, Axel and Kreuzer, Edwin and Gray, Andrew and Hedrick, J. Karl (2012). Collaborative Control of Multiple AUVs for Improving the Estimation of Flow Field Dependent Variables. <i>IEEE/OES Autonomous Underwater Vehicles</i> Southampton.</li>
-</ul>
+R. A. Geist, A. Hackbarth, E. Kreuzer, V. Rausch, M. Sankur, and E. Solowjow, “Towards a Hyperbolic Acoustic One-Way Localization System for Underwater Swarm Robotics,” in IEEE International Conference on Robotics and Automation (ICRA), 2016, pp. 4551– 4556.
