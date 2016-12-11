@@ -29,8 +29,7 @@ In Spring 2016 Tobias Johannink redesigned the HippoCampus as part of his Bachel
 <div style="margin-left:10%; margin-right:10%; text-align: justify">
   <h1>Computing Hardware</h1>
   The current underwater vehicle setup represents a very flexible and robust research platform. 
-  We use a <a href="https://pixhawk.org/modules/pixhawk" target="_blank">Pixhawk</a> board with a 168 MHz Cortex M4F CPU (256 
-  KB RAM, 2 MB Flash) and onboard sensors (3D ACC / Gyro / MAG / Baro). 
+  We use a <a href="https://pixhawk.org/modules/pixhawk" target="_blank">Pixhawk</a> board and onboard sensors (3D ACC / Gyro / MAG / Baro). 
   PX4 is an independent, open-source, open-hardware project (BSD licensed) for mobile robotics applications. 
   The PX4 platform runs <a href="https://en.wikipedia.org/wiki/NuttX" target="_blank">NuttX</a>, a small footprint real-time operating system (RTOS), which provides a POSIX-style environment. 
   Our HippoCampus control stack is a custom, BSD licensed underwater vehicle control stack, providing remote controlled and fully autonomous operations for our underwater vehicle hardware.
