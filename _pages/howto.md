@@ -35,7 +35,11 @@ sitemap: false
     </tr>
     <tr>
       <td>3. Get the Firmware</td>
-      <td><div style="vertical-align: middle; text-align: center;"><a href="https://github.com/EugenSol/FirmwareBetag" class="btn btn--warning" target="_blank">HippoC Firmware</a></div></td>
+      <td><div style="vertical-align: middle; text-align: center;"><a href="https://github.com/EugenSol/HippoC" class="btn btn--warning" target="_blank">HippoC Firmware</a></div></td>
+    </tr>
+    <tr>
+      <td>4. Chat on Gitter</td>
+      <td><div style="vertical-align: middle; text-align: center;"><a href="https://gitter.im/EugenSol/HippoCampus" class="btn btn--warning" target="_blank">Gitter Channel</a></div></td>
     </tr>
   </tbody>
 </table>
