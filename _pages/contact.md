@@ -10,10 +10,8 @@ sitemap: false
 <h1>Contact</h1>
 </div>
 
-Eugen Solowjow
-Hamburg University of Technology
-Mechanics and Ocean Engineering
-Eißendorfer Straße 42 
-21073 Hamburg, Germany
+The HippoCampus project is led by Axel Hackbarth, Daniel Dücker, and Eugen Solowjow of the Institute of Mechanics and Ocean Engineering, Hamburg University of Technology.
 
-Email: eugen.solowjow@tuhh.de
+The project is supported by Deutsche Forschungsgemeinschaft (DFG) and Wissenschaft im Dialog (WiD). The support is greatly acknowledged.
+
+Email: HippoCAUV@gmail.com
