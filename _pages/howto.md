@@ -35,7 +35,7 @@ sitemap: false
     </tr>
     <tr>
       <td>3. Chat on Gitter</td>
-      <td><div style="vertical-align: middle; text-align: center;"><a href="https://gitter.im/EugenSol/HippoCampus" class="btn btn--warning" target="_blank">Gitter Channel</a></div></td>
+      <td><div style="vertical-align: middle; text-align: center;"><a href="https://gitter.im/EugenSol/HippoC" class="btn btn--warning" target="_blank">Gitter Channel</a></div></td>
     </tr>
   </tbody>
 </table>
