@@ -78,6 +78,20 @@ hr {
 <p align="center">Videos</p>
 <p line-height="3em"> </p>
 <div class="wrapper">
+  <header class="header"><hr></header>
+    <section class="contentwrap">
+      <nav class="navArea">Underwater Hydrobatics with HippoCampus @ICRA2018</nav>
+      <article class="contentArea">
+      <div class="video-container">
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/BKLaj87kNZY" frameborder="0" allowfullscreen></iframe>
+    </div>
+      </article>
+    </section>
+  <!--  <div class="footer"><p style="font-size: 0.5px;"><br></p><hr></div> -->
+</div>
+
+<br>
+<div class="wrapper">
   <header class="header"><hr><br></header>
     <section class="contentwrap">
     <nav class="navArea"><ul>Birth of HippoCampus</ul></nav>
@@ -91,20 +105,7 @@ hr {
 </div>
 
 <br>
-<div class="wrapper">
-  <header class="header"><hr></header>
-    <section class="contentwrap">
-      <nav class="navArea">Underwater Hydrobatics with HippoCampus @ICRA2018 videos</nav>
-      <article class="contentArea">
-      <div class="video-container">
-      <iframe width="560" height="315" src="https://www.youtube.com/embed/BKLaj87kNZY" frameborder="0" allowfullscreen></iframe>
-    </div>
-      </article>
-    </section>
-  <!--  <div class="footer"><p style="font-size: 0.5px;"><br></p><hr></div> -->
-</div>
 
-<br>
 <div class="wrapper">
   <header class="header"><hr></header>
     <section class="contentwrap">
