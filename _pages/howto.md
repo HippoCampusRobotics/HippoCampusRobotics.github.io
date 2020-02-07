@@ -31,11 +31,11 @@ sitemap: false
     </tr>
     <tr>
       <td>2. Get the Firmware</td>
-      <td><div style="vertical-align: middle; text-align: center;"><a href="https://github.com/EugenSol/HippoC" class="btn btn--warning" target="_blank">HippoC Firmware</a></div></td>
+      <td><div style="vertical-align: middle; text-align: center;"><a href="https://github.com/danielduecker/firmware" class="btn btn--warning" target="_blank">HippoC Firmware</a></div></td>
     </tr>
     <tr>
-      <td>3. Chat on Gitter</td>
-      <td><div style="vertical-align: middle; text-align: center;"><a href="https://gitter.im/EugenSol/HippoC" class="btn btn--warning" target="_blank">Gitter Channel</a></div></td>
+      <td>3. Chat on Gitter </td>
+      <td><div style="vertical-align: middle; text-align: center;"><a href="https://gitter.im/EugenSol/HippoC" class="btn btn--warning" target="_blank">Gitter Channel (currently under construction)</a></div></td>
     </tr>
   </tbody>
 </table>
