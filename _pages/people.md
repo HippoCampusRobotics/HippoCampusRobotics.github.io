@@ -14,7 +14,7 @@ body{
 
  .box1, .box2, .box3 {
      float: left;
-     width: 32%;
+     width: 20%;
      margin-right: 2%;
      padding: 20px;
      background: #FFFFFF;
