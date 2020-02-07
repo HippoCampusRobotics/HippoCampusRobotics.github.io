@@ -21,11 +21,12 @@ The HippoCampus is an open-source micro underwater robot for research and hobby 
 The quad-rotor design makes HippoCampus agile and allows for complex maneuvers. 
 HippoCampus is built with off-the-shelf components and 3D-printed parts.
 It was developed for research in the area of autonomous exploration and monitoring of confined environments.
+
 The first prototype can be traced back to a project carried out by Axel Hackbarth and Eugen Solowjow in December 2014.
 In Spring 2016 Tobias Johannink redesigned the HippoCampus as part of his Bachelor thesis.
 Since then the design underwent multiple revision towards a fully modular concept. In the following years Daniel Duecker and man collaborator extended the HippoCampus platform with underwater localization, improved control and pathplanning capabilities.
   
-As by now the HippoCampus firmware is part of the PX4-firmware stack.
+As by now the HippoCampus firmware is part of the  <a href="https://github.com/px4/firmware" target="_blank">PX4-Firmware</a>  stack.
 
 </div>
 <br>
@@ -34,7 +35,7 @@ As by now the HippoCampus firmware is part of the PX4-firmware stack.
   <h1>HippoCampus Design</h1>
   The mechanical components of HippoCampus protect the electronics and consist of acrylic tubes and a base unit.
   The on-board electronics include ESCs, brushless DC motors, a LiPo battery, antennas, and system boards.
-  The HippoCampus platform uses the <a href="https://pixhawk.org/modules/pixhawk" target="_blank">Pixhawk</a> board as well as a Raspberry Pi 0.
+  The HippoCampus platform uses the <a href="https://store.mrobotics.io/mRo-PixRacer-R14-Official-p/auav-pxrcr-r14-mr.html" target="_blank">PixRacer</a> board as well as a Raspberry Pi4B.
   Firmware design is derived from the <a href="https://github.com/PX4/Firmware" target="_blank">PX4 project</a>. 
   The HippoC stack allows for remote controlled and autonomous operations.
   The HippoC control architecture includes state estimators and controllers for different purposes.
