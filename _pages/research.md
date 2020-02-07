@@ -12,11 +12,9 @@ It allows to test hardware, implement control and estimation algorithms, as well
 
 <h1>Current Projects</h1>
 
-Statistical learning of environmental fiels with micro underwater robots
+Learning of environmental fields with micro underwater robots
 
 Localization of micro underwater robots
-
-The floating Furuta pendulum
 
 High-performance hydrobatics
 
