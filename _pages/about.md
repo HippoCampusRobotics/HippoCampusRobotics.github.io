@@ -17,12 +17,16 @@ feature_row:
 
 <div style="margin-left:10%; margin-right:10%; text-align: justify">
   <h1>About HippoCampus</h1>
-The HippoCampus is a micro underwater robot for research and hobby applications.
+The HippoCampus is an open-source micro underwater robot for research and hobby applications.
 The quad-rotor design makes HippoCampus agile and allows for complex maneuvers. 
 HippoCampus is built with off-the-shelf components and 3D-printed parts.
 It was developed for research in the area of autonomous exploration and monitoring of confined environments.
 The first prototype can be traced back to a project carried out by Axel Hackbarth and Eugen Solowjow in December 2014.
 In Spring 2016 Tobias Johannink redesigned the HippoCampus as part of his Bachelor thesis.
+Since then the design underwent multiple revision towards a fully modular concept. In the following years Daniel Duecker and man collaborator extended the HippoCampus platform with underwater localization, improved control and pathplanning capabilities.
+  
+As by now the HippoCampus firmware is part of the PX4-firmware stack.
+
 </div>
 <br>
 
