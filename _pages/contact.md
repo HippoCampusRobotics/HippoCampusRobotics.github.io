@@ -10,8 +10,8 @@ sitemap: false
 <h1>Contact</h1>
 </div>
 
-The HippoCampus project is led by Eugen Solowjow, Daniel Dücker, Axel Hackbarth, and Prof. Edwin Kreuzer of the Institute of Mechanics and Ocean Engineering, Hamburg University of Technology.
+The HippoCampus project is led by Daniel Duecker, Eugen Solowjow, Axel Hackbarth, and Prof. Edwin Kreuzer of the Institute of Mechanics and Ocean Engineering, Hamburg University of Technology.
 
 The project is supported by Deutsche Forschungsgemeinschaft (DFG) and Wissenschaft im Dialog (WiD). The support is greatly acknowledged.
 
-Email: HippoCAUV@gmail.com
+Email: daniel.duecker (at) tu-hamburg.de
