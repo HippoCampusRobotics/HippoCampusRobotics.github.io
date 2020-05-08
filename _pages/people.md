@@ -35,6 +35,10 @@ body{
   <div class="box3"><img src="https://johtobi.github.io/images/placeholder-male.jpg"><br><p style="font-size:80%">Axel Hackbarth</p></div>
 </div>
 </p>
+
+<h2>Alumni</h2>
+{: .text-center}
+<p>
 <br>
 <p>
 <div style="margin-left:20%; margin-right:20%; text-align: justify">
