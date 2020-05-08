@@ -14,4 +14,4 @@ The HippoCampus project is led by Daniel Duecker, Eugen Solowjow, Axel Hackbarth
 
 The project is supported by Deutsche Forschungsgemeinschaft (DFG) and Wissenschaft im Dialog (WiD). The support is greatly acknowledged.
 
-Email: daniel.duecker (at) tu-hamburg.de
+Email: daniel.duecker (at) tuhh.de

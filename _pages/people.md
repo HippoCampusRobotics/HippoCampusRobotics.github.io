@@ -16,7 +16,7 @@ body{
      float: left;
      width: 20%;
      margin-right: 2%;
-     padding: 20px;
+     padding: 10px;
      background: #FFFFFF;
      box-sizing: border-box;
 }
@@ -27,24 +27,128 @@ body{
 </style>
 
 <h2>Team</h2>
-{: .text-center}
-<p>
+
 <div style="margin-left:20%; margin-right:20%; text-align: justify">
-<div class="box1"><img src="https://johtobi.github.io/images/placeholder-male.jpg"><br><p style="font-size:80%">Daniel Duecker</p></div>
-  <div class="box2"><img src="https://johtobi.github.io/images/placeholder-male.jpg"><br><p style="font-size:80%">Eugen Solowjow</p></div>
-  <div class="box3"><img src="https://johtobi.github.io/images/placeholder-male.jpg"><br><p style="font-size:80%">Axel Hackbarth</p></div>
+  <div class="box1">
+    <img src="https://hippocampusrobotics.github.io/images/placeholder-male.jpg">
+    <br>
+    <p style="font-size:80%">Daniel Duecker</p>
+  </div>
+  <div class="box2">
+    <img src="https://hippocampusrobotics.github.io/images/placeholder-male.jpg">
+    <br>
+    <p style="font-size:80%">Eugen Solowjow</p>
+  </div>
+  <div class="box3">
+    <img src="https://hippocampusrobotics.github.io/images/placeholder-male.jpg">
+    <br>
+    <p style="font-size:80%">Axel Hackbarth</p>
+  </div>
 </div>
-</p>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<div style="margin-left:20%; margin-right:20%; text-align: justify">
+  <div class="box1">
+    <img src="https://hippocampusrobotics.github.io/images/placeholder-male.jpg">
+    <br>
+    <p style="font-size:80%">Nathalie Bauschmann</p>
+  </div>
+  <div class="box2">
+    <img src="https://hippocampusrobotics.github.io/images/placeholder-male.jpg">
+    <br>
+    <p style="font-size:80%">Tim Hansen</p>
+  </div>
+  <div class="box3">
+    <img src="https://hippocampusrobotics.github.io/images/placeholder-male.jpg">
+    <br>
+    <p style="font-size:80%">Lennart Alff</p>
+  </div>
+</div>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<div style="margin-left:20%; margin-right:20%; text-align: justify">
+  <div class="box1">
+    <img src="https://hippocampusrobotics.github.io/images/placeholder-male.jpg">
+    <br>
+    <p style="font-size:80%">Philip Carstensen</p>
+  </div>
+  <div class="box2">
+    <img src="https://hippocampusrobotics.github.io/images/placeholder-male.jpg">
+    <br>
+    <p style="font-size:80%">Malte Flehmke</p>
+  </div>
+  <div class="box3">
+    <img src="https://hippocampusrobotics.github.io/images/placeholder-male.jpg">
+    <br>
+    <p style="font-size:80%">Sean Maroofi</p>
+  </div>
+</div>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<div style="margin-left:20%; margin-right:20%; text-align: justify">
+  <div class="box1">
+    <img src="https://hippocampusrobotics.github.io/images/placeholder-male.jpg">
+    <br>
+    <p style="font-size:80%">Roman Sartorti</p>
+  </div>
+  <div class="box2">
+    <img src="https://hippocampusrobotics.github.io/images/placeholder-male.jpg">
+    <br>
+    <p style="font-size:80%">Lukas Büsch</p>
+  </div>
+  <div class="box3">
+    <img src="https://hippocampusrobotics.github.io/images/placeholder-male.jpg">
+    <br>
+    <p style="font-size:80%">Jonas Hoffmeister</p>
+  </div>
+</div>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 <h2>Alumni</h2>
-{: .text-center}
-<p>
-<br>
 <p>
 <div style="margin-left:20%; margin-right:20%; text-align: justify">
-  <div class="box1"><img src="https://johtobi.github.io/images/placeholder-male.jpg"><br><p style="font-size:80%">Viktor Rausch</p></div>
-  <div class="box2"><img src="https://johtobi.github.io/images/placeholder-male.jpg"><br><p style="font-size:80%">René Geist</p></div>
-  <div class="box3"><img src="https://johtobi.github.io/images/placeholder-male.jpg"><br><p style="font-size:80%">Tobias Johannink</p></div>
-  <!-- <div class="box3"><img src="https://johtobi.github.io/images/placeholder-male.jpg"><br><p style="font-size:80%">Max Mustermann</p></div> -->
+  <div class="box1"><img src="https://hippocampusrobotics.github.io/images/placeholder-male.jpg">
+  <br>
+  <p style="font-size:80%">Viktor Rausch</p></div>
+  <div class="box2"><img src="https://hippocampusrobotics.github.io/images/placeholder-male.jpg">
+  <br><p style="font-size:80%">René Geist</p></div>
+  <div class="box3"><img src="https://hippocampusrobotics.github.io/images/placeholder-male.jpg">
+  <br><p style="font-size:80%">Tobias Johannink</p></div>
+  <!-- <div class="box3"><img src="https://hippocampusrobotics.github.io/images/placeholder-male.jpg"><br><p style="font-size:80%">Max Mustermann</p></div> -->
 </div>
 </p>
