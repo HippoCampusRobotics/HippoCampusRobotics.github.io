@@ -14,7 +14,7 @@ body{
 
  .box1, .box2, .box3 {
      float: left;
-     width: 20%;
+     width: 30%;
      margin-right: 2%;
      padding: 10px;
      background: #FFFFFF;
@@ -68,7 +68,7 @@ body{
     <p style="font-size:80%">Tim Hansen</p>
   </div>
   <div class="box3">
-    <img src="https://hippocampusrobotics.github.io/images/placeholder-male.jpg">
+    <img src="/images/people/lennart-alff.jpg">
     <br>
     <p style="font-size:80%">Lennart Alff</p>
   </div>
