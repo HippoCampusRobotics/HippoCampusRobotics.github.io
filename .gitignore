@@ -8,3 +8,5 @@ _site
 codekit-config.json
 node_modules
 npm-debug.log*
+# see https://ben.balter.com/jekyll-style-guide/gitignore/
+Gemfile.lock
