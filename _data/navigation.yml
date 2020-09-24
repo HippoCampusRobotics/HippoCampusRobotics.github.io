@@ -5,7 +5,10 @@ main:
     
   - title: "Research"
     url: /pages/research
-
+    
+  - title: "Class"
+    url: /pages/class
+    
   - title: "People"
     url: /pages/people
   
@@ -14,6 +17,9 @@ main:
 
   - title: "How To"
     url: /pages/howto
+    
+  - title: "Merchandise"
+    url: /pages/merchandise
     
   - title: "Contact"
     url: /pages/contact
