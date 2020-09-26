@@ -58,8 +58,7 @@ body{
 
 <div style="margin-left:20%; margin-right:20%; text-align: justify">
   <div class="box1">
-    <img src="https://hippocampusrobotics.github.io/images/placeholder-male.jpg">
-    <img src="/images/people/nathalie.jpg">
+    <img src="/images/people/Nathalie.jpg">
     <br>
     <p style="font-size:80%">Nathalie Bauschmann</p>
   </div>
