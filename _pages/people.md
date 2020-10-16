@@ -30,7 +30,7 @@ body{
 
 <div style="margin-left:20%; margin-right:20%; text-align: justify">
   <div class="box1">
-    <img src="https://hippocampusrobotics.github.io/images/placeholder-male.jpg" width="360" height="360">
+    <img src="/images/people/daniel_q.jpg" width="360" height="360">
     <br>
     <p style="font-size:80%">Daniel Duecker</p>
   </div>
