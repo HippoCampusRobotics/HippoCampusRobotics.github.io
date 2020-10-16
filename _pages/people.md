@@ -86,7 +86,7 @@ body{
 
 <div style="margin-left:20%; margin-right:20%; text-align: justify">
   <div class="box1">
-    <img src="/images/people/roman_q.JPG" width="360" height="360">
+    <img src="/images/people/roman_q.jpg" width="360" height="360">
     <br>
     <p style="font-size:80%">Roman Sartorti</p>
   </div>
@@ -118,7 +118,7 @@ body{
     <p style="font-size:80%">Philip Carstensen</p>
   </div>
   <div class="box2">
-    <img src="/images/people/luka_q.JPG" width="360" height="520">
+    <img src="/images/people/lukas_q.JPG" width="360" height="360">
     <br>
     <p style="font-size:80%">Lukas Büsch</p>
   </div>
