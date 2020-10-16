@@ -58,17 +58,17 @@ body{
 
 <div style="margin-left:20%; margin-right:20%; text-align: justify">
   <div class="box1">
-    <img src="/images/people/Nathalie.jpg" width="360" height="520">
+    <img src="/images/people/nathalie_q.jpg" width="360" height="360">
     <br>
     <p style="font-size:80%">Nathalie Bauschmann</p>
   </div>
   <div class="box2">
-    <img src="/images/people/tim.JPG" width="360" height="480">
+    <img src="/images/people/tim_q.JPG" width="360" height="360">
     <br>
     <p style="font-size:80%">Tim Hansen</p>
   </div>
   <div class="box3">
-    <img src="/images/people/lennart-alff.jpg" width="360" height="400">
+    <img src="/images/people/lennart_q.jpg" width="360" height="360">
     <br>
     <p style="font-size:80%">Lennart Alff</p>
   </div>
@@ -86,17 +86,17 @@ body{
 
 <div style="margin-left:20%; margin-right:20%; text-align: justify">
   <div class="box1">
-    <img src="/images/people/roman1.JPG" width="360" height="520">
+    <img src="/images/people/roman_q.JPG" width="360" height="360">
     <br>
     <p style="font-size:80%">Roman Sartorti</p>
   </div>
   <div class="box2">
-    <img src="/images/people/malte.jpg" width="360" height="468">
+    <img src="/images/people/malte_q.jpg" width="360" height="360">
     <br>
     <p style="font-size:80%">Malte Flehmke</p>
   </div>
   <div class="box3">
-    <img src="/images/people/benedikt_sm.jpeg" width="360" height="360">
+    <img src="/images/people/benedikt_q.jpg" width="360" height="360">
     <br>
     <p style="font-size:80%">Benedikt Mersch</p>
   </div>
@@ -118,7 +118,7 @@ body{
     <p style="font-size:80%">Philip Carstensen</p>
   </div>
   <div class="box2">
-    <img src="/images/people/lukas.JPG" width="360" height="520">
+    <img src="/images/people/luka_q.JPG" width="360" height="520">
     <br>
     <p style="font-size:80%">Lukas Büsch</p>
   </div>
