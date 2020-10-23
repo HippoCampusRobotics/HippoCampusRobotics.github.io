@@ -63,7 +63,7 @@ body{
     <p style="font-size:80%">Nathalie Bauschmann</p>
   </div>
   <div class="box2">
-    <img src="/images/people/tim_q.JPG" width="360" height="360">
+    <img src="/images/people/tim_q.jpg" width="360" height="360">
     <br>
     <p style="font-size:80%">Tim Hansen</p>
   </div>
@@ -115,12 +115,40 @@ body{
   <div class="box1">
     <img src="https://hippocampusrobotics.github.io/images/placeholder-male.jpg" width="360" height="360">
     <br>
-    <p style="font-size:80%">Philip Carstensen</p>
+    <p style="font-size:80%">Matti Vahs</p>
   </div>
   <div class="box2">
-    <img src="/images/people/lukas_q.JPG" width="360" height="360">
+    <img src="/images/people/lukas_q.jpg" width="360" height="360">
     <br>
     <p style="font-size:80%">Lukas Büsch</p>
+  </div>
+  <div class="box3">
+    <img src="https://hippocampusrobotics.github.io/images/placeholder-male.jpg" width="360" height="360">
+    <br>
+    <p style="font-size:80%">Philip Carstensen</p>
+  </div>
+</div>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<div style="margin-left:20%; margin-right:20%; text-align: justify">
+  <div class="box1">
+      <img src="/images/people/rene_q.jpg" width="360" height="360">
+    <br>
+    <p style="font-size:80%">Rene Hochdahl</p>
+  </div>
+  <div class="box2">
+    <img src="https://hippocampusrobotics.github.io/images/placeholder-male.jpg" width="360" height="360">
+    <br>
+    <p style="font-size:80%">Kevin Eusemann</p>
   </div>
   <div class="box3">
     <img src="https://hippocampusrobotics.github.io/images/placeholder-male.jpg" width="360" height="360">
@@ -138,7 +166,6 @@ body{
 <br>
 <br>
 <br>
-
 
 
 <h2>Alumni</h2>
