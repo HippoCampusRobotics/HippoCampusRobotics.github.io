@@ -32,7 +32,7 @@ body{
   <div class="box1">
     <img src="/images/people/daniel_q.png" width="360" height="360">
     <br>
-    <p style="font-size:80%">Daniel Duecker</p>
+    <p style="font-size:80%">Daniel Dücker</p>
   </div>
   <div class="box2">
     <img src="https://hippocampusrobotics.github.io/images/placeholder-male.jpg"  width="360" height="360">
