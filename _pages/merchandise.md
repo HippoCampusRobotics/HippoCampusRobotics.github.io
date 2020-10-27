@@ -36,7 +36,7 @@ img {
     your personal "I build robots" T-Shirt!
 </p>
 <p>
-    <img src="/images/photos/merch.png" width="240" height="240">
+    <img src="/images/photos/merch.jpg" width="240" height="240">
 </p>
 </div>
 
