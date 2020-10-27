@@ -9,7 +9,7 @@ feature_row:
     excerpt: "First prototype of HippoCampus as of 2014."   
   - image_path: photos/hippoc_cad.jpg
     excerpt: "CAD rendering of HippoCampus."
-  - image_path: photos/hippoc_2018.JPG
+  - image_path: photos/hippoc_2018.jpg
     excerpt: "Current version of HippoCampus as of 2018." 
 ---
 
