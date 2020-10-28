@@ -30,7 +30,8 @@ While the first half of the term will consist of keynote lectures and assignment
 The class will be held in a hybrid format including Zoom and in-person pitch lectures as well as practical/remote lab experiments.
 
 For the moment we aim to hold the first lecture in-person on Tuesday, Nov 3rd, at 17:45 in D2.022, given the current dynamic situation allows us to meet in-person.
-Registration
 
 <h2>Registration</h2>
-Students who are interested in participating in this class register via StudIP (TUHH-Students). UHH and ECIU students please send a mail to daniel.duecker(at)tuhh.de. Unfortunately, the number of spots in this class is limited. In case the number of registered students exceeds our capacity, we will go through a selection. The final acceptance will be sent out w/c Nov 9th.
+Students who are interested in participating in this class register via StudIP (TUHH-Students). UHH and ECIU students please send a mail to daniel.duecker(at)tuhh.de.
+<br>
+Unfortunately, the number of spots in this class is limited. In case the number of registered students exceeds our capacity, we will go through a selection. The final acceptance will be sent out w/c Nov 9th.
