@@ -68,7 +68,7 @@ body{
     <p style="font-size:80%">Tim Hansen</p>
   </div>
   <div class="box3">
-    <img src="/images/people/lennart_q.jpg" width="360" height="360">
+    <img src="/images/people/lennart_q1.jpg" width="360" height="360">
     <br>
     <p style="font-size:80%">Lennart Alff</p>
   </div>
@@ -113,7 +113,7 @@ body{
 
 <div style="margin-left:20%; margin-right:20%; text-align: justify">
   <div class="box1">
-    <img src="https://hippocampusrobotics.github.io/images/placeholder-male.jpg" width="360" height="360">
+    <img src="/images/people/matti_q.jpg" width="360" height="360">
     <br>
     <p style="font-size:80%">Matti Vahs</p>
   </div>
