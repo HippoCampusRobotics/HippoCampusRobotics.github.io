@@ -247,5 +247,3 @@ compress_html:
     envs: development
 
 include: ["_pages"]
-
-# theme: jekyll-theme-cayman
