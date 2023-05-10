@@ -1,6 +1,6 @@
 ---
 title: "Classpage"
-permalink: /pages/teaching/
+permalink: /teaching/
 layout: splash
 excerpt: "Teaching"
 sitemap: false

@@ -1,15 +1,14 @@
 ---
 title: "About"
-permalink: /pages/about/
+permalink: /about/
 layout: splash
 excerpt: "About HippoC"
-sitemap: false
 feature_row:
   - image_path: https://www.tuhh.de/t3resources/mum/_processed_/csm_2014-12-05_10.28.15_nocable_small_34d2a69318.jpg
     excerpt: "First prototype of HippoCampus as of 2014."   
-  - image_path: photos/hippoc_cad.jpg
+  - image_path: images/photos/hippoc_cad.jpg
     excerpt: "CAD rendering of HippoCampus."
-  - image_path: photos/hippoc_2018.jpg
+  - image_path: images/photos/hippoc_2018.jpg
     excerpt: "Current version of HippoCampus as of 2018." 
 ---
 

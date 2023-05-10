@@ -1,12 +1,19 @@
 ---
-title: "People"
-permalink: /pages/people/
-layout: splash
-excerpt: "People"
+title: People
+layout: people
+permalink: /people/
+collection: members_active
+entries_layout: grid
+classes: wide
 sitemap: false
 ---
 
-<style>
+<!-- {% for staff_member in site.members_active %}
+  <h2>{{ staff_member.name }} - {{ staff_member.position }}</h2>
+  <p>{{ staff_member.content | markdownify }}</p>
+{% endfor %} -->
+
+<!-- <style>
 body{
   margin: 0;
   padding: 0;
@@ -178,6 +185,6 @@ body{
   <br><p style="font-size:80%">René Geist</p></div>
   <div class="box3"><img src="https://hippocampusrobotics.github.io/images/placeholder-male.jpg">
   <br><p style="font-size:80%">Tobias Johannink</p></div>
-  <!-- <div class="box3"><img src="https://hippocampusrobotics.github.io/images/placeholder-male.jpg"><br><p style="font-size:80%">Max Mustermann</p></div> -->
+  <div class="box3"><img src="https://hippocampusrobotics.github.io/images/placeholder-male.jpg"><br><p style="font-size:80%">Max Mustermann</p></div> 
 </div>
-</p>
+</p> -->

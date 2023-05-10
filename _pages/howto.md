@@ -1,6 +1,6 @@
 ---
 title: "HowTo"
-permalink: /pages/howto/
+permalink: /howto/
 layout: splash
 excerpt: "howto"
 sitemap: false

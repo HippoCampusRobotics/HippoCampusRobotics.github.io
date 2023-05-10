@@ -1,6 +1,6 @@
 ---
 title: "Videos"
-permalink: /pages/videos/
+permalink: /videos/
 layout: splash
 excerpt: "Videos HippoC"
 sitemap: false

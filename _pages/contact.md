@@ -1,6 +1,6 @@
 ---
 title: "Contact"
-permalink: /pages/contact/
+permalink: /contact/
 layout: splash
 excerpt: "Contact"
 sitemap: false

@@ -1,26 +1,26 @@
 # main links links
 main:
   - title: "About"
-    url: /pages/about
+    url: /about
     
   - title: "Research"
-    url: /pages/research
+    url: /research
     
   - title: "Teaching"
-    url: /pages/teaching
+    url: /teaching
     
   - title: "People"
-    url: /pages/people
+    url: /people
   
   - title: "Videos"
-    url: /pages/videos
+    url: /videos
 
   - title: "How To"
-    url: /pages/howto
+    url: /howto
     
   - title: "Merchandise"
-    url: /pages/merchandise
+    url: /merchandise
     
   - title: "Contact"
-    url: /pages/contact
+    url: /contact
 

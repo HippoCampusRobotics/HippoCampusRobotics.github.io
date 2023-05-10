@@ -1,6 +1,6 @@
 ---
 title: "Merchandise"
-permalink: /pages/merchandise/
+permalink: /merchandise/
 layout: splash
 excerpt: "Merchandise"
 sitemap: false
