@@ -1,6 +1,6 @@
 ---
 title: People
-layout: single
+layout: splash
 permalink: /people/
 classes: wide
 sitemap: false
@@ -27,6 +27,8 @@ sitemap: false
   } 
 </style>
 
+## Team
+
 <div class="flex-container wrap">
   {% for member in site.data.people %}
     {% if member.active and member.staff %}
@@ -36,7 +38,9 @@ sitemap: false
     {% endif %}
   {% endfor %}
 </div>
-<h2>Students</h2>
+
+## Students
+
 <div class="flex-container wrap">
   {% for member in site.data.people %}
     {% if member.active %}
@@ -49,7 +53,8 @@ sitemap: false
   {% endfor %}
 </div>
 
-<h2>Alumni</h2>
+## Alumni
+
 <div class="flex-container wrap">
   {% for member in site.data.people %}
     {% unless member.active %}
