@@ -15,8 +15,8 @@ main:
   - title: "Videos"
     url: /videos
 
-  - title: "How To"
-    url: /howto
+  - title: "Docs"
+    url: https://hippocampusrobotics.github.io/docs
     
   - title: "Merchandise"
     url: /merchandise
