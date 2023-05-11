@@ -75,24 +75,6 @@ analytics:
     tracking_id          :
 
 
-collections:
-  members_active:
-    people: true
-    output: true
-  members_former:
-    people: true
-
-defaults:
-  - scope:
-      path: ""
-      type: members_active
-    values:
-      author_profile: false
-      header:
-        teaser: images/placeholder-male.jpg
-      layout: single
-
-
 # Site Author
 author:
   name             : "MUM "

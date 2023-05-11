@@ -1,0 +1,115 @@
+################################################################################
+# Active Staff
+################################################################################
+- name: Nathalie Bauschmann
+  github: NBauschmann
+  role: Research Associate
+  active: true
+  staff: true
+  image: /images/people/nathalie_q1.jpg
+
+- name: Thies Lennart Alff
+  github: lennartalff
+  role: Research Associate
+  active: true
+  staff: true
+  image: /images/people/lennart_alff.jpg
+
+- name: Daniel-André Dücker
+  github: DanielDuecker
+  role: Senior Scientist (TUM)
+  active: true
+  staff: true
+  image: /images/people/daniel_q.jpg
+
+################################################################################
+# Active Students
+################################################################################
+
+- name: Niklas Trekel
+  github: niklastkl
+  role: Master Student
+  active: true
+  staff: false
+
+- name: Finn Busch
+  role: Master Student
+  active: true
+  staff: false
+
+- name: René Hochdahl
+  role: Master Student
+  active: true
+  staff: false
+  image: /images/people/rene_q.jpg
+
+################################################################################
+# Alumni
+################################################################################
+
+- name: Eugen Solowjow
+  github: eugensol
+  role: Research Associate
+  active: false
+  staff: true
+
+- name: Axel Hackbarth
+  role: Research Associate
+  active: false
+  staff: true
+
+- name: Tim Hansen
+  role: Master Student
+  active: false
+  staff: false
+  image: /images/people/tim_q.jpg
+
+- name: Roman Sartorti
+  role: Master Student
+  active: false
+  staff: false
+  image: /images/people/roman_q.jpg
+
+- name: Malte Flehmke
+  role: Master Student
+  active: false
+  staff: false
+  image: /images/people/malte_q.jpg
+
+- name: Benedikt Mersch
+  role: Master Student
+  active: false
+  staff: false
+  image: /images/people/benedikt_q.jpg
+
+- name: Matti Vahs
+  role: Master Student
+  active: false
+  staff: false
+  image: /images/people/matti_q.jpg
+
+- name: Lukas Büsch
+  role: Bachelor Student
+  active: false
+  staff: false
+  image: /images/people/lukas_q.jpg
+
+- name: Philip Carstensen
+  role: Master Student
+  active: false
+  staff: false
+
+- name: Kevin Eusemann
+  active: false
+
+- name: Sean Maroofi
+  active: false
+
+- name: Viktor Rausch
+  active: false
+
+- name: René Geist
+  active: false
+
+- name: Tobias Johannink
+  active: false

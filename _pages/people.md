@@ -1,190 +1,61 @@
 ---
 title: People
-layout: people
+layout: single
 permalink: /people/
-collection: members_active
-entries_layout: grid
 classes: wide
 sitemap: false
 ---
 
-<!-- {% for staff_member in site.members_active %}
-  <h2>{{ staff_member.name }} - {{ staff_member.position }}</h2>
-  <p>{{ staff_member.content | markdownify }}</p>
-{% endfor %} -->
-
-<!-- <style>
-body{
-  margin: 0;
-  padding: 0;
-}
-
- .box1, .box2, .box3 {
-     float: left;
-     width: 30%;
-     margin-right: 2%;
-     padding: 10px;
-     background: #FFFFFF;
-     box-sizing: border-box;
-}
-
-.box3 {
-     margin-right: 0;
-}
+<style>
+  .flex-container {
+    padding: 10px;
+    display: flex;
+    /* justify-content: center; */
+  }
+  .wrap {
+    flex-wrap: wrap;
+  }
+  .flex-item {
+    /* background: LightGray; */
+    flex: 0 0 calc(33% - 20px);
+    min-width: 200px;
+    padding: 5px;
+    /* max-width: 200px; */
+    margin: 10px;
+    
+    /* color: white; */
+  } 
 </style>
 
-<h2>Team</h2>
-
-<div style="margin-left:20%; margin-right:20%; text-align: justify">
-  <div class="box1">
-    <img src="/images/people/daniel_q.png" width="360" height="360">
-    <br>
-    <p style="font-size:80%">Daniel Dücker</p>
-  </div>
-  <div class="box2">
-    <img src="https://hippocampusrobotics.github.io/images/placeholder-male.jpg"  width="360" height="360">
-    <br>
-    <p style="font-size:80%">Eugen Solowjow</p>
-  </div>
-  <div class="box3">
-    <img src="https://hippocampusrobotics.github.io/images/placeholder-male.jpg"  width="360" height="360">
-    <br>
-    <p style="font-size:80%">Axel Hackbarth</p>
-  </div>
+<div class="flex-container wrap">
+  {% for member in site.data.people %}
+    {% if member.active and member.staff %}
+      <div class="flex-item">
+        {% include member-overview.html image=member.image name=member.name role=member.role %}
+      </div>
+    {% endif %}
+  {% endfor %}
 </div>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
-<div style="margin-left:20%; margin-right:20%; text-align: justify">
-  <div class="box1">
-    <img src="/images/people/nathalie_q.jpg" width="360" height="360">
-    <br>
-    <p style="font-size:80%">Nathalie Bauschmann</p>
-  </div>
-  <div class="box2">
-    <img src="/images/people/tim_q.jpg" width="360" height="360">
-    <br>
-    <p style="font-size:80%">Tim Hansen</p>
-  </div>
-  <div class="box3">
-    <img src="/images/people/lennart_q1.jpg" width="360" height="360">
-    <br>
-    <p style="font-size:80%">Lennart Alff</p>
-  </div>
+<h2>Students</h2>
+<div class="flex-container wrap">
+  {% for member in site.data.people %}
+    {% if member.active %}
+      {% unless member.staff %}
+        <div class="flex-item">
+          {% include member-overview.html image=member.image name=member.name role=member.role %}
+        </div>
+      {% endunless %}
+    {% endif %}
+  {% endfor %}
 </div>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
-<div style="margin-left:20%; margin-right:20%; text-align: justify">
-  <div class="box1">
-    <img src="/images/people/roman_q.jpg" width="360" height="360">
-    <br>
-    <p style="font-size:80%">Roman Sartorti</p>
-  </div>
-  <div class="box2">
-    <img src="/images/people/malte_q.jpg" width="360" height="360">
-    <br>
-    <p style="font-size:80%">Malte Flehmke</p>
-  </div>
-  <div class="box3">
-    <img src="/images/people/benedikt_q.jpg" width="360" height="360">
-    <br>
-    <p style="font-size:80%">Benedikt Mersch</p>
-  </div>
-</div>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
-<div style="margin-left:20%; margin-right:20%; text-align: justify">
-  <div class="box1">
-    <img src="/images/people/matti_q.jpg" width="360" height="360">
-    <br>
-    <p style="font-size:80%">Matti Vahs</p>
-  </div>
-  <div class="box2">
-    <img src="/images/people/lukas_q.jpg" width="360" height="360">
-    <br>
-    <p style="font-size:80%">Lukas Büsch</p>
-  </div>
-  <div class="box3">
-    <img src="https://hippocampusrobotics.github.io/images/placeholder-male.jpg" width="360" height="360">
-    <br>
-    <p style="font-size:80%">Philip Carstensen</p>
-  </div>
-</div>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
-<div style="margin-left:20%; margin-right:20%; text-align: justify">
-  <div class="box1">
-      <img src="/images/people/rene_q.jpg" width="360" height="360">
-    <br>
-    <p style="font-size:80%">Rene Hochdahl</p>
-  </div>
-  <div class="box2">
-    <img src="https://hippocampusrobotics.github.io/images/placeholder-male.jpg" width="360" height="360">
-    <br>
-    <p style="font-size:80%">Kevin Eusemann</p>
-  </div>
-  <div class="box3">
-    <img src="https://hippocampusrobotics.github.io/images/placeholder-male.jpg" width="360" height="360">
-    <br>
-    <p style="font-size:80%">Sean Maroofi</p>
-  </div>
-</div>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
 
 <h2>Alumni</h2>
-<p>
-<div style="margin-left:20%; margin-right:20%; text-align: justify">
-  <div class="box1"><img src="https://hippocampusrobotics.github.io/images/placeholder-male.jpg">
-  <br>
-  <p style="font-size:80%">Viktor Rausch</p></div>
-  <div class="box2"><img src="https://hippocampusrobotics.github.io/images/placeholder-male.jpg">
-  <br><p style="font-size:80%">René Geist</p></div>
-  <div class="box3"><img src="https://hippocampusrobotics.github.io/images/placeholder-male.jpg">
-  <br><p style="font-size:80%">Tobias Johannink</p></div>
-  <div class="box3"><img src="https://hippocampusrobotics.github.io/images/placeholder-male.jpg"><br><p style="font-size:80%">Max Mustermann</p></div> 
+<div class="flex-container wrap">
+  {% for member in site.data.people %}
+    {% unless member.active %}
+      <div class="flex-item">
+        {% include member-overview.html image=member.image name=member.name role=member.role %}
+      </div>
+    {% endunless %}
+  {% endfor %}
 </div>
-</p> -->
