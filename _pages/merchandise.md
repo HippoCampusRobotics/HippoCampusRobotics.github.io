@@ -14,12 +14,10 @@ img {
 }
 </style>
 
-<div style="margin-left:10%; margin-right:10%; text-align: justify">
-<h1>Merchandise</h1>
-</div>
+## Merchandise
 
-<hr>
-<h2>I build robots - T-Shirt</h2>
+
+### I build robots - T-Shirt
 <div style="clear: left;">
 <p style="float: left;">
     <br>
@@ -40,5 +38,4 @@ img {
 </p>
 </div>
 
-<hr>
 <h2>More Merchandise coming soon!</h2>
