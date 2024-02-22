@@ -32,16 +32,15 @@
   active: true
   staff: false
 
-- name: Finn Busch
+- name: Richard Wittmüß
   role: Master Student
   active: true
   staff: false
 
-- name: René Hochdahl
+- name: Vincent Lenz
   role: Master Student
   active: true
   staff: false
-  image: /images/people/rene_q.jpg
 
 ################################################################################
 # Alumni
@@ -58,11 +57,24 @@
   active: false
   staff: true
 
+
+
+- name: Finn Busch
+  role: Master Student
+  active: false
+  staff: false
+
 - name: Tim Hansen
   role: Master Student
   active: false
   staff: false
   image: /images/people/tim_q.jpg
+
+- name: René Hochdahl
+  role: Master Student
+  active: false
+  staff: false
+  image: /images/people/rene_q.jpg
 
 - name: Roman Sartorti
   role: Master Student
